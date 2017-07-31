@@ -1,0 +1,868 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 31 Jul 2017 22:13:34 at http://www.adamant-stroy.ru/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "ru, en, *" http://www.adamant-stroy.ru/ -O1 "D:\project\project" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:08:35	Warning: 	Retry after error -4 (Connect Error) at link https://mc.yandex.ru/metrika/watch.js (from www.adamant-stroy.ru/)
+23:08:39	Error: 	"Not Found" (404) at link www.adamant-stroy.ru/wp-content/themes/adamant/css/fotorama@2x.png (from www.adamant-stroy.ru/wp-content/themes/adamant/css/style.css)
+23:08:54	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=7
+23:08:54	Warning: 	File has moved from www.adamant-stroy.ru/?p=7 to http://www.adamant-stroy.ru/about/
+23:08:58	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=9
+23:08:58	Warning: 	File has moved from www.adamant-stroy.ru/?p=9 to http://www.adamant-stroy.ru/certificate/
+23:09:02	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=11
+23:09:02	Warning: 	File has moved from www.adamant-stroy.ru/?p=11 to http://www.adamant-stroy.ru/clients/
+23:09:06	Error: 	"Not Found" (404) at link www.adamant-stroy.ru/wp-content/themes/adamant/css/men2.css (from www.adamant-stroy.ru/clients/)
+23:22:36	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=27
+23:22:36	Warning: 	File has moved from www.adamant-stroy.ru/?p=27 to http://www.adamant-stroy.ru/objects-map/
+23:23:46	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=17
+23:23:46	Warning: 	File has moved from www.adamant-stroy.ru/?p=17 to http://www.adamant-stroy.ru/contacts/
+23:23:46	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=1169
+23:23:46	Warning: 	File has moved from www.adamant-stroy.ru/?p=1169 to http://www.adamant-stroy.ru/map/
+00:15:58	Warning: 	Retry after error -4 (Connect Error) at link https://mc.yandex.ru/metrika/watch.js (from www.adamant-stroy.ru/)
+00:15:59	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=86
+00:15:59	Warning: 	File has moved from www.adamant-stroy.ru/?p=86 to http://www.adamant-stroy.ru/works/vnutrennie-santexnicheskie-raboty/
+00:15:59	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=245
+00:15:59	Warning: 	File has moved from www.adamant-stroy.ru/?p=245 to http://www.adamant-stroy.ru/works/dekorativnye-metallokonstrukcii/
+00:15:59	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=92
+00:15:59	Warning: 	File has moved from www.adamant-stroy.ru/?p=92 to http://www.adamant-stroy.ru/works/krovelnye-raboty/
+00:15:59	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=91
+00:15:59	Warning: 	File has moved from www.adamant-stroy.ru/?p=91 to http://www.adamant-stroy.ru/works/metallokonstrukcii/
+00:15:59	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=243
+00:15:59	Warning: 	File has moved from www.adamant-stroy.ru/?p=243 to http://www.adamant-stroy.ru/works/monolitnye-zhelezobetonnye-konstrukcii/
+00:16:00	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=326
+00:16:00	Warning: 	File has moved from www.adamant-stroy.ru/?p=326 to http://www.adamant-stroy.ru/works/obshhestroitelnye-raboty/
+00:16:02	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=249
+00:16:02	Warning: 	File has moved from www.adamant-stroy.ru/?p=249 to http://www.adamant-stroy.ru/works/otdelochnye-raboty/
+00:16:03	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=328
+00:16:03	Warning: 	File has moved from www.adamant-stroy.ru/?p=328 to http://www.adamant-stroy.ru/works/pozharotushenie/
+00:16:03	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=89
+00:16:03	Warning: 	File has moved from www.adamant-stroy.ru/?p=89 to http://www.adamant-stroy.ru/works/proektirovanie/
+00:16:03	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=1177
+00:16:03	Warning: 	File has moved from www.adamant-stroy.ru/?p=1177 to http://www.adamant-stroy.ru/works/promyshlennoe-stroitelstvo/
+00:16:03	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=1174
+00:16:03	Warning: 	File has moved from www.adamant-stroy.ru/?p=1174 to http://www.adamant-stroy.ru/works/stroitelstvo-kommercheskoj-nedvizhimosti/
+00:16:03	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=1208
+00:16:03	Warning: 	File has moved from www.adamant-stroy.ru/?p=1208 to http://www.adamant-stroy.ru/works/stroitelstvo-neftyanyx-obektov/
+00:16:03	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=1179
+00:16:03	Warning: 	File has moved from www.adamant-stroy.ru/?p=1179 to http://www.adamant-stroy.ru/works/stroitelstvo-ofisnyx-zdanij/
+00:16:03	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=1202
+00:16:03	Warning: 	File has moved from www.adamant-stroy.ru/?p=1202 to http://www.adamant-stroy.ru/works/stroitelstvo-skladskix-i-logisticheskix-kompleksov/
+00:16:03	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=90
+00:16:03	Warning: 	File has moved from www.adamant-stroy.ru/?p=90 to http://www.adamant-stroy.ru/works/generalnyj-podryad/
+00:16:03	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=248
+00:16:03	Warning: 	File has moved from www.adamant-stroy.ru/?p=248 to http://www.adamant-stroy.ru/works/elektromontazhnye-slabotochnye-sistemy/
+00:16:03	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=960
+00:16:03	Warning: 	File has moved from www.adamant-stroy.ru/?p=960 to http://www.adamant-stroy.ru/?post_type=objects&p=960
+00:16:03	Error: 	"Not Found" (404) at link www.adamant-stroy.ru/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.adamant-stroy.ru%2F%3Fpost_type%3Dobjects%26p%3D960 (from www.adamant-stroy.ru/?post_type=objects&p=960)
+00:16:03	Warning: 	Moved Permanently for www.adamant-stroy.ru/?page=2&post_type=objects&p=960
+00:16:03	Warning: 	File has moved from www.adamant-stroy.ru/?page=2&post_type=objects&p=960 to http://www.adamant-stroy.ru/?post_type=objects&p=960/2/
+00:16:04	Warning: 	Moved Permanently for www.adamant-stroy.ru/?page=3&post_type=objects&p=960
+00:16:04	Warning: 	File has moved from www.adamant-stroy.ru/?page=3&post_type=objects&p=960 to http://www.adamant-stroy.ru/?post_type=objects&p=960/3/
+00:16:05	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=574
+00:16:05	Warning: 	File has moved from www.adamant-stroy.ru/?p=574 to http://www.adamant-stroy.ru/objects/stroitelstvo-zhilyx-domov-v-respublike-kareliya/
+00:16:05	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=612
+00:16:05	Warning: 	File has moved from www.adamant-stroy.ru/?p=612 to http://www.adamant-stroy.ru/objects/remont-ofisnogo-zdaniya-v-g-sankt-peterburg-na-ul-aviakonstruktorov/
+00:16:05	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/remont-ofisnogo-zdaniya-v-g-sankt-peterburg-na-ul-aviakonstruktorov/?page=2
+00:16:05	Warning: 	File has moved from www.adamant-stroy.ru/objects/remont-ofisnogo-zdaniya-v-g-sankt-peterburg-na-ul-aviakonstruktorov/?page=2 to http://www.adamant-stroy.ru/objects/remont-ofisnogo-zdaniya-v-g-sankt-peterburg-na-ul-aviakonstruktorov/2/
+00:16:06	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/remont-ofisnogo-zdaniya-v-g-sankt-peterburg-na-ul-aviakonstruktorov/?page=3
+00:16:06	Warning: 	File has moved from www.adamant-stroy.ru/objects/remont-ofisnogo-zdaniya-v-g-sankt-peterburg-na-ul-aviakonstruktorov/?page=3 to http://www.adamant-stroy.ru/objects/remont-ofisnogo-zdaniya-v-g-sankt-peterburg-na-ul-aviakonstruktorov/3/
+00:16:06	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=561
+00:16:06	Warning: 	File has moved from www.adamant-stroy.ru/?p=561 to http://www.adamant-stroy.ru/objects/biznes-centr-viktoriya-plaza/
+00:16:06	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/biznes-centr-viktoriya-plaza/?page=2
+00:16:06	Warning: 	File has moved from www.adamant-stroy.ru/objects/biznes-centr-viktoriya-plaza/?page=2 to http://www.adamant-stroy.ru/objects/biznes-centr-viktoriya-plaza/2/
+00:16:07	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/biznes-centr-viktoriya-plaza/?page=3
+00:16:07	Warning: 	File has moved from www.adamant-stroy.ru/objects/biznes-centr-viktoriya-plaza/?page=3 to http://www.adamant-stroy.ru/objects/biznes-centr-viktoriya-plaza/3/
+00:16:07	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=571
+00:16:07	Warning: 	File has moved from www.adamant-stroy.ru/?p=571 to http://www.adamant-stroy.ru/objects/skladskoj-kompleks-dlya-x5-retail-group-badaevskij-v-p-shushary/
+00:16:07	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/skladskoj-kompleks-dlya-x5-retail-group-badaevskij-v-p-shushary/?page=2
+00:16:07	Warning: 	File has moved from www.adamant-stroy.ru/objects/skladskoj-kompleks-dlya-x5-retail-group-badaevskij-v-p-shushary/?page=2 to http://www.adamant-stroy.ru/objects/skladskoj-kompleks-dlya-x5-retail-group-badaevskij-v-p-shushary/2/
+00:16:08	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/skladskoj-kompleks-dlya-x5-retail-group-badaevskij-v-p-shushary/?page=3
+00:16:08	Warning: 	File has moved from www.adamant-stroy.ru/objects/skladskoj-kompleks-dlya-x5-retail-group-badaevskij-v-p-shushary/?page=3 to http://www.adamant-stroy.ru/objects/skladskoj-kompleks-dlya-x5-retail-group-badaevskij-v-p-shushary/3/
+00:16:08	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=322
+00:16:08	Warning: 	File has moved from www.adamant-stroy.ru/?p=322 to http://www.adamant-stroy.ru/objects/skladskoj-kompleks-armada-park/
+00:16:08	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/skladskoj-kompleks-armada-park/?page=2
+00:16:08	Warning: 	File has moved from www.adamant-stroy.ru/objects/skladskoj-kompleks-armada-park/?page=2 to http://www.adamant-stroy.ru/objects/skladskoj-kompleks-armada-park/2/
+00:16:09	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/skladskoj-kompleks-armada-park/?page=3
+00:16:09	Warning: 	File has moved from www.adamant-stroy.ru/objects/skladskoj-kompleks-armada-park/?page=3 to http://www.adamant-stroy.ru/objects/skladskoj-kompleks-armada-park/3/
+00:16:09	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=582
+00:16:09	Warning: 	File has moved from www.adamant-stroy.ru/?p=582 to http://www.adamant-stroy.ru/objects/rekonstrukciya-zdaniya-avtostoyanki-pod-bc-senator/
+00:16:09	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/rekonstrukciya-zdaniya-avtostoyanki-pod-bc-senator/?page=2
+00:16:09	Warning: 	File has moved from www.adamant-stroy.ru/objects/rekonstrukciya-zdaniya-avtostoyanki-pod-bc-senator/?page=2 to http://www.adamant-stroy.ru/objects/rekonstrukciya-zdaniya-avtostoyanki-pod-bc-senator/2/
+00:16:10	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/rekonstrukciya-zdaniya-avtostoyanki-pod-bc-senator/?page=3
+00:16:10	Warning: 	File has moved from www.adamant-stroy.ru/objects/rekonstrukciya-zdaniya-avtostoyanki-pod-bc-senator/?page=3 to http://www.adamant-stroy.ru/objects/rekonstrukciya-zdaniya-avtostoyanki-pod-bc-senator/3/
+00:16:10	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=922
+00:16:10	Warning: 	File has moved from www.adamant-stroy.ru/?p=922 to http://www.adamant-stroy.ru/objects/stroitelstvo-karaulnogo-pomeshheniya-nps-pes-dlya-kompanii-transneft-2/
+00:16:10	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-karaulnogo-pomeshheniya-nps-pes-dlya-kompanii-transneft-2/?page=2
+00:16:10	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-karaulnogo-pomeshheniya-nps-pes-dlya-kompanii-transneft-2/?page=2 to http://www.adamant-stroy.ru/objects/stroitelstvo-karaulnogo-pomeshheniya-nps-pes-dlya-kompanii-transneft-2/2/
+00:16:11	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-karaulnogo-pomeshheniya-nps-pes-dlya-kompanii-transneft-2/?page=3
+00:16:11	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-karaulnogo-pomeshheniya-nps-pes-dlya-kompanii-transneft-2/?page=3 to http://www.adamant-stroy.ru/objects/stroitelstvo-karaulnogo-pomeshheniya-nps-pes-dlya-kompanii-transneft-2/3/
+00:16:11	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=566
+00:16:11	Warning: 	File has moved from www.adamant-stroy.ru/?p=566 to http://www.adamant-stroy.ru/objects/stroitelstvo-parkingov-na-leninskom-prospekte-na-dunajskom-prospekte/
+00:16:11	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-parkingov-na-leninskom-prospekte-na-dunajskom-prospekte/?page=2
+00:16:11	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-parkingov-na-leninskom-prospekte-na-dunajskom-prospekte/?page=2 to http://www.adamant-stroy.ru/objects/stroitelstvo-parkingov-na-leninskom-prospekte-na-dunajskom-prospekte/2/
+00:16:11	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-parkingov-na-leninskom-prospekte-na-dunajskom-prospekte/?page=3
+00:16:11	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-parkingov-na-leninskom-prospekte-na-dunajskom-prospekte/?page=3 to http://www.adamant-stroy.ru/objects/stroitelstvo-parkingov-na-leninskom-prospekte-na-dunajskom-prospekte/3/
+00:16:11	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=583
+00:16:11	Warning: 	File has moved from www.adamant-stroy.ru/?p=583 to http://www.adamant-stroy.ru/objects/stroitelstvo-zdaniya-sportivno-ozdorovitelnogo-kompleksa-v-mytishhax/
+00:16:11	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-zdaniya-sportivno-ozdorovitelnogo-kompleksa-v-mytishhax/?page=2
+00:16:11	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-zdaniya-sportivno-ozdorovitelnogo-kompleksa-v-mytishhax/?page=2 to http://www.adamant-stroy.ru/objects/stroitelstvo-zdaniya-sportivno-ozdorovitelnogo-kompleksa-v-mytishhax/2/
+00:16:11	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-zdaniya-sportivno-ozdorovitelnogo-kompleksa-v-mytishhax/?page=3
+00:16:11	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-zdaniya-sportivno-ozdorovitelnogo-kompleksa-v-mytishhax/?page=3 to http://www.adamant-stroy.ru/objects/stroitelstvo-zdaniya-sportivno-ozdorovitelnogo-kompleksa-v-mytishhax/3/
+00:16:11	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=643
+00:16:11	Warning: 	File has moved from www.adamant-stroy.ru/?p=643 to http://www.adamant-stroy.ru/objects/kompleks-rabot-na-obekte-zhiloj-kompleks-novoorlovskij-na-suzdalskom-shosse-dlya-kompanii-yuit/
+00:16:11	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/kompleks-rabot-na-obekte-zhiloj-kompleks-novoorlovskij-na-suzdalskom-shosse-dlya-kompanii-yuit/?page=2
+00:16:11	Warning: 	File has moved from www.adamant-stroy.ru/objects/kompleks-rabot-na-obekte-zhiloj-kompleks-novoorlovskij-na-suzdalskom-shosse-dlya-kompanii-yuit/?page=2 to http://www.adamant-stroy.ru/objects/kompleks-rabot-na-obekte-zhiloj-kompleks-novoorlovskij-na-suzdalskom-shosse-dlya-kompanii-yuit/2/
+00:16:12	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/kompleks-rabot-na-obekte-zhiloj-kompleks-novoorlovskij-na-suzdalskom-shosse-dlya-kompanii-yuit/?page=3
+00:16:12	Warning: 	File has moved from www.adamant-stroy.ru/objects/kompleks-rabot-na-obekte-zhiloj-kompleks-novoorlovskij-na-suzdalskom-shosse-dlya-kompanii-yuit/?page=3 to http://www.adamant-stroy.ru/objects/kompleks-rabot-na-obekte-zhiloj-kompleks-novoorlovskij-na-suzdalskom-shosse-dlya-kompanii-yuit/3/
+00:16:12	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=565
+00:16:12	Warning: 	File has moved from www.adamant-stroy.ru/?p=565 to http://www.adamant-stroy.ru/objects/mnogokvartirnye-zhilye-doma-v-g-pushkin/
+00:16:12	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=592
+00:16:12	Warning: 	File has moved from www.adamant-stroy.ru/?p=592 to http://www.adamant-stroy.ru/objects/kompleks-proizvodstva-benzina-dlya-kinef-v-g-kirishi/
+00:16:12	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=1256
+00:16:12	Warning: 	File has moved from www.adamant-stroy.ru/?p=1256 to http://www.adamant-stroy.ru/tenders/tender-na-ustrojstvo-myagkoj-krovli/
+00:16:12	Warning: 	Moved Permanently for www.adamant-stroy.ru/tenders/tender-na-ustrojstvo-myagkoj-krovli/?page=2
+00:16:12	Warning: 	File has moved from www.adamant-stroy.ru/tenders/tender-na-ustrojstvo-myagkoj-krovli/?page=2 to http://www.adamant-stroy.ru/tenders/tender-na-ustrojstvo-myagkoj-krovli/2/
+00:16:12	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=1250
+00:16:12	Warning: 	File has moved from www.adamant-stroy.ru/?p=1250 to http://www.adamant-stroy.ru/tenders/tender-na-slabotochnye-sistem/
+00:16:12	Warning: 	Moved Permanently for www.adamant-stroy.ru/tenders/tender-na-slabotochnye-sistem/?page=2
+00:16:12	Warning: 	File has moved from www.adamant-stroy.ru/tenders/tender-na-slabotochnye-sistem/?page=2 to http://www.adamant-stroy.ru/tenders/tender-na-slabotochnye-sistem/2/
+00:16:12	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=1242
+00:16:12	Warning: 	File has moved from www.adamant-stroy.ru/?p=1242 to http://www.adamant-stroy.ru/tenders/postavka-i-montazh-protivodymnyx-shtor/
+00:16:12	Warning: 	Moved Permanently for www.adamant-stroy.ru/tenders/postavka-i-montazh-protivodymnyx-shtor/?page=2
+00:16:12	Warning: 	File has moved from www.adamant-stroy.ru/tenders/postavka-i-montazh-protivodymnyx-shtor/?page=2 to http://www.adamant-stroy.ru/tenders/postavka-i-montazh-protivodymnyx-shtor/2/
+00:16:13	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=1246
+00:16:13	Warning: 	File has moved from www.adamant-stroy.ru/?p=1246 to http://www.adamant-stroy.ru/tenders/postavku-i-montazh-metallicheskix-dverej/
+00:16:13	Warning: 	Moved Permanently for www.adamant-stroy.ru/tenders/postavku-i-montazh-metallicheskix-dverej/?page=2
+00:16:13	Warning: 	File has moved from www.adamant-stroy.ru/tenders/postavku-i-montazh-metallicheskix-dverej/?page=2 to http://www.adamant-stroy.ru/tenders/postavku-i-montazh-metallicheskix-dverej/2/
+00:16:14	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=232
+00:16:14	Warning: 	File has moved from www.adamant-stroy.ru/?p=232 to http://www.adamant-stroy.ru/vacancy/gip/
+00:16:14	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=231
+00:16:14	Warning: 	File has moved from www.adamant-stroy.ru/?p=231 to http://www.adamant-stroy.ru/vacancy/rukovoditel-proekta/
+00:16:14	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=1261
+00:16:14	Warning: 	File has moved from www.adamant-stroy.ru/?p=1261 to http://www.adamant-stroy.ru/?post_type=objects&p=1261
+00:16:14	Error: 	"Not Found" (404) at link www.adamant-stroy.ru/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.adamant-stroy.ru%2F%3Fpost_type%3Dobjects%26p%3D1261 (from www.adamant-stroy.ru/objects/obshhestvenno-delovoj-centr-zanevskij-kaskad-4/)
+00:16:14	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=635
+00:16:14	Warning: 	File has moved from www.adamant-stroy.ru/?p=635 to http://www.adamant-stroy.ru/?post_type=objects&p=635
+00:16:15	Error: 	"Not Found" (404) at link www.adamant-stroy.ru/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.adamant-stroy.ru%2F%3Fpost_type%3Dobjects%26p%3D635 (from www.adamant-stroy.ru/objects/remont-fasada-i-krovli-dlya-kombinata-ladoga-rosrezerva/)
+00:16:15	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=952
+00:16:15	Warning: 	File has moved from www.adamant-stroy.ru/?p=952 to http://www.adamant-stroy.ru/?post_type=objects&p=952
+00:16:15	Error: 	"Not Found" (404) at link www.adamant-stroy.ru/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.adamant-stroy.ru%2F%3Fpost_type%3Dobjects%26p%3D952 (from www.adamant-stroy.ru/objects/zdanie-torgovo-razvlekatelnogo-kompleksa-milya/)
+00:16:15	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=325
+00:16:15	Warning: 	File has moved from www.adamant-stroy.ru/?p=325 to http://www.adamant-stroy.ru/objects/zavod-rsk-po-pererabotke-distribucii-stekla/
+00:16:15	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/zavod-rsk-po-pererabotke-distribucii-stekla/?page=2
+00:16:15	Warning: 	File has moved from www.adamant-stroy.ru/objects/zavod-rsk-po-pererabotke-distribucii-stekla/?page=2 to http://www.adamant-stroy.ru/objects/zavod-rsk-po-pererabotke-distribucii-stekla/2/
+00:16:15	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/zavod-rsk-po-pererabotke-distribucii-stekla/?page=3
+00:16:15	Warning: 	File has moved from www.adamant-stroy.ru/objects/zavod-rsk-po-pererabotke-distribucii-stekla/?page=3 to http://www.adamant-stroy.ru/objects/zavod-rsk-po-pererabotke-distribucii-stekla/3/
+00:16:15	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=335
+00:16:15	Warning: 	File has moved from www.adamant-stroy.ru/?p=335 to http://www.adamant-stroy.ru/objects/gipermarket-prizma-v-trk-evropolis/
+00:16:16	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/gipermarket-prizma-v-trk-evropolis/?page=2
+00:16:16	Warning: 	File has moved from www.adamant-stroy.ru/objects/gipermarket-prizma-v-trk-evropolis/?page=2 to http://www.adamant-stroy.ru/objects/gipermarket-prizma-v-trk-evropolis/2/
+00:16:16	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/gipermarket-prizma-v-trk-evropolis/?page=3
+00:16:16	Warning: 	File has moved from www.adamant-stroy.ru/objects/gipermarket-prizma-v-trk-evropolis/?page=3 to http://www.adamant-stroy.ru/objects/gipermarket-prizma-v-trk-evropolis/3/
+00:16:16	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=351
+00:16:16	Warning: 	File has moved from www.adamant-stroy.ru/?p=351 to http://www.adamant-stroy.ru/objects/podgotovka-pod-stroitelstvo-kinoteatra-mirazh-v-trk-evropolis/
+00:16:16	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/podgotovka-pod-stroitelstvo-kinoteatra-mirazh-v-trk-evropolis/?page=2
+00:16:16	Warning: 	File has moved from www.adamant-stroy.ru/objects/podgotovka-pod-stroitelstvo-kinoteatra-mirazh-v-trk-evropolis/?page=2 to http://www.adamant-stroy.ru/objects/podgotovka-pod-stroitelstvo-kinoteatra-mirazh-v-trk-evropolis/2/
+00:16:16	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/podgotovka-pod-stroitelstvo-kinoteatra-mirazh-v-trk-evropolis/?page=3
+00:16:16	Warning: 	File has moved from www.adamant-stroy.ru/objects/podgotovka-pod-stroitelstvo-kinoteatra-mirazh-v-trk-evropolis/?page=3 to http://www.adamant-stroy.ru/objects/podgotovka-pod-stroitelstvo-kinoteatra-mirazh-v-trk-evropolis/3/
+00:16:16	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=334
+00:16:16	Warning: 	File has moved from www.adamant-stroy.ru/?p=334 to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-trc-monpanse/
+00:16:16	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-trc-monpanse/?page=2
+00:16:16	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-trc-monpanse/?page=2 to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-trc-monpanse/2/
+00:16:16	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-trc-monpanse/?page=3
+00:16:16	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-trc-monpanse/?page=3 to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-trc-monpanse/3/
+00:16:16	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=333
+00:16:16	Warning: 	File has moved from www.adamant-stroy.ru/?p=333 to http://www.adamant-stroy.ru/objects/pozharnoe-depo-ii-tipa-na-2-avtomobilya/
+00:16:16	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/pozharnoe-depo-ii-tipa-na-2-avtomobilya/?page=2
+00:16:16	Warning: 	File has moved from www.adamant-stroy.ru/objects/pozharnoe-depo-ii-tipa-na-2-avtomobilya/?page=2 to http://www.adamant-stroy.ru/objects/pozharnoe-depo-ii-tipa-na-2-avtomobilya/2/
+00:16:16	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/pozharnoe-depo-ii-tipa-na-2-avtomobilya/?page=3
+00:16:16	Warning: 	File has moved from www.adamant-stroy.ru/objects/pozharnoe-depo-ii-tipa-na-2-avtomobilya/?page=3 to http://www.adamant-stroy.ru/objects/pozharnoe-depo-ii-tipa-na-2-avtomobilya/3/
+00:16:16	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=331
+00:16:16	Warning: 	File has moved from www.adamant-stroy.ru/?p=331 to http://www.adamant-stroy.ru/objects/rekonstrukciya-estakady-pod-sklad-s-abk/
+00:16:16	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/rekonstrukciya-estakady-pod-sklad-s-abk/?page=2
+00:16:16	Warning: 	File has moved from www.adamant-stroy.ru/objects/rekonstrukciya-estakady-pod-sklad-s-abk/?page=2 to http://www.adamant-stroy.ru/objects/rekonstrukciya-estakady-pod-sklad-s-abk/2/
+00:16:16	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/rekonstrukciya-estakady-pod-sklad-s-abk/?page=3
+00:16:16	Warning: 	File has moved from www.adamant-stroy.ru/objects/rekonstrukciya-estakady-pod-sklad-s-abk/?page=3 to http://www.adamant-stroy.ru/objects/rekonstrukciya-estakady-pod-sklad-s-abk/3/
+00:16:17	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=330
+00:16:17	Warning: 	File has moved from www.adamant-stroy.ru/?p=330 to http://www.adamant-stroy.ru/objects/cex-rsk-po-pererabotke-distribucii-stekla/
+00:16:17	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/cex-rsk-po-pererabotke-distribucii-stekla/?page=2
+00:16:17	Warning: 	File has moved from www.adamant-stroy.ru/objects/cex-rsk-po-pererabotke-distribucii-stekla/?page=2 to http://www.adamant-stroy.ru/objects/cex-rsk-po-pererabotke-distribucii-stekla/2/
+00:16:17	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/cex-rsk-po-pererabotke-distribucii-stekla/?page=3
+00:16:17	Warning: 	File has moved from www.adamant-stroy.ru/objects/cex-rsk-po-pererabotke-distribucii-stekla/?page=3 to http://www.adamant-stroy.ru/objects/cex-rsk-po-pererabotke-distribucii-stekla/3/
+00:16:17	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=349
+00:16:17	Warning: 	File has moved from www.adamant-stroy.ru/?p=349 to http://www.adamant-stroy.ru/objects/stroitelstvo-3j-ocheredi-trk-zanevskij-kaskad/
+00:16:17	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-3j-ocheredi-trk-zanevskij-kaskad/?page=2
+00:16:17	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-3j-ocheredi-trk-zanevskij-kaskad/?page=2 to http://www.adamant-stroy.ru/objects/stroitelstvo-3j-ocheredi-trk-zanevskij-kaskad/2/
+00:16:17	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-3j-ocheredi-trk-zanevskij-kaskad/?page=3
+00:16:17	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-3j-ocheredi-trk-zanevskij-kaskad/?page=3 to http://www.adamant-stroy.ru/objects/stroitelstvo-3j-ocheredi-trk-zanevskij-kaskad/3/
+00:16:17	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=346
+00:16:17	Warning: 	File has moved from www.adamant-stroy.ru/?p=346 to http://www.adamant-stroy.ru/objects/renovaciya-kinoteatra-kronverk-sinema-v-tc-zanevskij-kaskad/
+00:16:17	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/renovaciya-kinoteatra-kronverk-sinema-v-tc-zanevskij-kaskad/?page=2
+00:16:17	Warning: 	File has moved from www.adamant-stroy.ru/objects/renovaciya-kinoteatra-kronverk-sinema-v-tc-zanevskij-kaskad/?page=2 to http://www.adamant-stroy.ru/objects/renovaciya-kinoteatra-kronverk-sinema-v-tc-zanevskij-kaskad/2/
+00:16:17	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/renovaciya-kinoteatra-kronverk-sinema-v-tc-zanevskij-kaskad/?page=3
+00:16:17	Warning: 	File has moved from www.adamant-stroy.ru/objects/renovaciya-kinoteatra-kronverk-sinema-v-tc-zanevskij-kaskad/?page=3 to http://www.adamant-stroy.ru/objects/renovaciya-kinoteatra-kronverk-sinema-v-tc-zanevskij-kaskad/3/
+00:16:17	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=345
+00:16:17	Warning: 	File has moved from www.adamant-stroy.ru/?p=345 to http://www.adamant-stroy.ru/objects/renovaciya-kinoteatra-kronverk-sinema-v-tc-balkanskij/
+00:16:17	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/renovaciya-kinoteatra-kronverk-sinema-v-tc-balkanskij/?page=2
+00:16:17	Warning: 	File has moved from www.adamant-stroy.ru/objects/renovaciya-kinoteatra-kronverk-sinema-v-tc-balkanskij/?page=2 to http://www.adamant-stroy.ru/objects/renovaciya-kinoteatra-kronverk-sinema-v-tc-balkanskij/2/
+00:16:17	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/renovaciya-kinoteatra-kronverk-sinema-v-tc-balkanskij/?page=3
+00:16:17	Warning: 	File has moved from www.adamant-stroy.ru/objects/renovaciya-kinoteatra-kronverk-sinema-v-tc-balkanskij/?page=3 to http://www.adamant-stroy.ru/objects/renovaciya-kinoteatra-kronverk-sinema-v-tc-balkanskij/3/
+00:16:18	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=344
+00:16:18	Warning: 	File has moved from www.adamant-stroy.ru/?p=344 to http://www.adamant-stroy.ru/objects/renovaciya-pomeshheniya-kinoteatra-kronverk-sinema-v-tk-baltijskij/
+00:16:18	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/renovaciya-pomeshheniya-kinoteatra-kronverk-sinema-v-tk-baltijskij/?page=2
+00:16:18	Warning: 	File has moved from www.adamant-stroy.ru/objects/renovaciya-pomeshheniya-kinoteatra-kronverk-sinema-v-tk-baltijskij/?page=2 to http://www.adamant-stroy.ru/objects/renovaciya-pomeshheniya-kinoteatra-kronverk-sinema-v-tk-baltijskij/2/
+00:16:18	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/renovaciya-pomeshheniya-kinoteatra-kronverk-sinema-v-tk-baltijskij/?page=3
+00:16:18	Warning: 	File has moved from www.adamant-stroy.ru/objects/renovaciya-pomeshheniya-kinoteatra-kronverk-sinema-v-tk-baltijskij/?page=3 to http://www.adamant-stroy.ru/objects/renovaciya-pomeshheniya-kinoteatra-kronverk-sinema-v-tk-baltijskij/3/
+00:16:18	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=337
+00:16:18	Warning: 	File has moved from www.adamant-stroy.ru/?p=337 to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-baltijskij/
+00:16:18	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-baltijskij/?page=2
+00:16:18	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-baltijskij/?page=2 to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-baltijskij/2/
+00:16:18	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-baltijskij/?page=3
+00:16:18	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-baltijskij/?page=3 to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-baltijskij/3/
+00:16:18	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=336
+00:16:18	Warning: 	File has moved from www.adamant-stroy.ru/?p=336 to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-pyat-ozer/
+00:16:18	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-pyat-ozer/?page=2
+00:16:18	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-pyat-ozer/?page=2 to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-pyat-ozer/2/
+00:16:18	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-pyat-ozer/?page=3
+00:16:18	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-pyat-ozer/?page=3 to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-pyat-ozer/3/
+00:16:18	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=363
+00:16:18	Warning: 	File has moved from www.adamant-stroy.ru/?p=363 to http://www.adamant-stroy.ru/objects/rekonstrukciya-gostinicy-moskva/
+00:16:18	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/rekonstrukciya-gostinicy-moskva/?page=2
+00:16:18	Warning: 	File has moved from www.adamant-stroy.ru/objects/rekonstrukciya-gostinicy-moskva/?page=2 to http://www.adamant-stroy.ru/objects/rekonstrukciya-gostinicy-moskva/2/
+00:16:18	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/rekonstrukciya-gostinicy-moskva/?page=3
+00:16:18	Warning: 	File has moved from www.adamant-stroy.ru/objects/rekonstrukciya-gostinicy-moskva/?page=3 to http://www.adamant-stroy.ru/objects/rekonstrukciya-gostinicy-moskva/3/
+00:16:19	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=347
+00:16:19	Warning: 	File has moved from www.adamant-stroy.ru/?p=347 to http://www.adamant-stroy.ru/objects/kinoteatr-formula-kino-v-mfk-zhemchuzhnaya-plaza/
+00:16:19	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/kinoteatr-formula-kino-v-mfk-zhemchuzhnaya-plaza/?page=2
+00:16:19	Warning: 	File has moved from www.adamant-stroy.ru/objects/kinoteatr-formula-kino-v-mfk-zhemchuzhnaya-plaza/?page=2 to http://www.adamant-stroy.ru/objects/kinoteatr-formula-kino-v-mfk-zhemchuzhnaya-plaza/2/
+00:16:19	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/kinoteatr-formula-kino-v-mfk-zhemchuzhnaya-plaza/?page=3
+00:16:19	Warning: 	File has moved from www.adamant-stroy.ru/objects/kinoteatr-formula-kino-v-mfk-zhemchuzhnaya-plaza/?page=3 to http://www.adamant-stroy.ru/objects/kinoteatr-formula-kino-v-mfk-zhemchuzhnaya-plaza/3/
+00:16:19	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=338
+00:16:19	Warning: 	File has moved from www.adamant-stroy.ru/?p=338 to http://www.adamant-stroy.ru/objects/gipermarket-prizma-v-tc-zhemchuzhnaya-plaza/
+00:16:19	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/gipermarket-prizma-v-tc-zhemchuzhnaya-plaza/?page=2
+00:16:19	Warning: 	File has moved from www.adamant-stroy.ru/objects/gipermarket-prizma-v-tc-zhemchuzhnaya-plaza/?page=2 to http://www.adamant-stroy.ru/objects/gipermarket-prizma-v-tc-zhemchuzhnaya-plaza/2/
+00:16:19	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/gipermarket-prizma-v-tc-zhemchuzhnaya-plaza/?page=3
+00:16:19	Warning: 	File has moved from www.adamant-stroy.ru/objects/gipermarket-prizma-v-tc-zhemchuzhnaya-plaza/?page=3 to http://www.adamant-stroy.ru/objects/gipermarket-prizma-v-tc-zhemchuzhnaya-plaza/3/
+00:16:19	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=343
+00:16:19	Warning: 	File has moved from www.adamant-stroy.ru/?p=343 to http://www.adamant-stroy.ru/objects/kapitalnyj-remont-kinokoncertnogo-zala-v-universitete-kino-televideniya/
+00:16:19	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/kapitalnyj-remont-kinokoncertnogo-zala-v-universitete-kino-televideniya/?page=2
+00:16:19	Warning: 	File has moved from www.adamant-stroy.ru/objects/kapitalnyj-remont-kinokoncertnogo-zala-v-universitete-kino-televideniya/?page=2 to http://www.adamant-stroy.ru/objects/kapitalnyj-remont-kinokoncertnogo-zala-v-universitete-kino-televideniya/2/
+00:16:19	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/kapitalnyj-remont-kinokoncertnogo-zala-v-universitete-kino-televideniya/?page=3
+00:16:19	Warning: 	File has moved from www.adamant-stroy.ru/objects/kapitalnyj-remont-kinokoncertnogo-zala-v-universitete-kino-televideniya/?page=3 to http://www.adamant-stroy.ru/objects/kapitalnyj-remont-kinokoncertnogo-zala-v-universitete-kino-televideniya/3/
+00:16:19	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=354
+00:16:19	Warning: 	File has moved from www.adamant-stroy.ru/?p=354 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-kontinent-na-buxarestskoj/
+00:16:19	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-kontinent-na-buxarestskoj/?page=2
+00:16:19	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-kontinent-na-buxarestskoj/?page=2 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-kontinent-na-buxarestskoj/2/
+00:16:19	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-kontinent-na-buxarestskoj/?page=3
+00:16:19	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-kontinent-na-buxarestskoj/?page=3 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-kontinent-na-buxarestskoj/3/
+00:16:19	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=352
+00:16:19	Warning: 	File has moved from www.adamant-stroy.ru/?p=352 to http://www.adamant-stroy.ru/objects/stroitelstvo-2j-ocheredi-trk-kontinent/
+00:16:20	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-2j-ocheredi-trk-kontinent/?page=2
+00:16:20	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-2j-ocheredi-trk-kontinent/?page=2 to http://www.adamant-stroy.ru/objects/stroitelstvo-2j-ocheredi-trk-kontinent/2/
+00:16:20	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-2j-ocheredi-trk-kontinent/?page=3
+00:16:20	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-2j-ocheredi-trk-kontinent/?page=3 to http://www.adamant-stroy.ru/objects/stroitelstvo-2j-ocheredi-trk-kontinent/3/
+00:16:20	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=348
+00:16:20	Warning: 	File has moved from www.adamant-stroy.ru/?p=348 to http://www.adamant-stroy.ru/objects/kinoteatr-formula-kino-v-trc-piter-lend/
+00:16:20	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/kinoteatr-formula-kino-v-trc-piter-lend/?page=2
+00:16:20	Warning: 	File has moved from www.adamant-stroy.ru/objects/kinoteatr-formula-kino-v-trc-piter-lend/?page=2 to http://www.adamant-stroy.ru/objects/kinoteatr-formula-kino-v-trc-piter-lend/2/
+00:16:20	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/kinoteatr-formula-kino-v-trc-piter-lend/?page=3
+00:16:20	Warning: 	File has moved from www.adamant-stroy.ru/objects/kinoteatr-formula-kino-v-trc-piter-lend/?page=3 to http://www.adamant-stroy.ru/objects/kinoteatr-formula-kino-v-trc-piter-lend/3/
+00:16:20	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=341
+00:16:20	Warning: 	File has moved from www.adamant-stroy.ru/?p=341 to http://www.adamant-stroy.ru/objects/gipermarket-prizma-v-trk-balkaniya-nova/
+00:16:20	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/gipermarket-prizma-v-trk-balkaniya-nova/?page=2
+00:16:20	Warning: 	File has moved from www.adamant-stroy.ru/objects/gipermarket-prizma-v-trk-balkaniya-nova/?page=2 to http://www.adamant-stroy.ru/objects/gipermarket-prizma-v-trk-balkaniya-nova/2/
+00:16:20	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/gipermarket-prizma-v-trk-balkaniya-nova/?page=3
+00:16:20	Warning: 	File has moved from www.adamant-stroy.ru/objects/gipermarket-prizma-v-trk-balkaniya-nova/?page=3 to http://www.adamant-stroy.ru/objects/gipermarket-prizma-v-trk-balkaniya-nova/3/
+00:16:20	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=340
+00:16:20	Warning: 	File has moved from www.adamant-stroy.ru/?p=340 to http://www.adamant-stroy.ru/objects/gipermarket-prizma-v-tk-kontinent/
+00:16:20	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/gipermarket-prizma-v-tk-kontinent/?page=2
+00:16:20	Warning: 	File has moved from www.adamant-stroy.ru/objects/gipermarket-prizma-v-tk-kontinent/?page=2 to http://www.adamant-stroy.ru/objects/gipermarket-prizma-v-tk-kontinent/2/
+00:16:20	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/gipermarket-prizma-v-tk-kontinent/?page=3
+00:16:20	Warning: 	File has moved from www.adamant-stroy.ru/objects/gipermarket-prizma-v-tk-kontinent/?page=3 to http://www.adamant-stroy.ru/objects/gipermarket-prizma-v-tk-kontinent/3/
+00:16:20	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=339
+00:16:20	Warning: 	File has moved from www.adamant-stroy.ru/?p=339 to http://www.adamant-stroy.ru/objects/gipermarket-prizma-v-trk-grand-kanon/
+00:16:20	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/gipermarket-prizma-v-trk-grand-kanon/?page=2
+00:16:20	Warning: 	File has moved from www.adamant-stroy.ru/objects/gipermarket-prizma-v-trk-grand-kanon/?page=2 to http://www.adamant-stroy.ru/objects/gipermarket-prizma-v-trk-grand-kanon/2/
+00:16:20	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/gipermarket-prizma-v-trk-grand-kanon/?page=3
+00:16:20	Warning: 	File has moved from www.adamant-stroy.ru/objects/gipermarket-prizma-v-trk-grand-kanon/?page=3 to http://www.adamant-stroy.ru/objects/gipermarket-prizma-v-trk-grand-kanon/3/
+00:16:20	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=439
+00:16:20	Warning: 	File has moved from www.adamant-stroy.ru/?p=439 to http://www.adamant-stroy.ru/objects/stroitelstvo-mnogozalnogo-kinoteatra-velikan-park/
+00:16:20	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-mnogozalnogo-kinoteatra-velikan-park/?page=2
+00:16:20	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-mnogozalnogo-kinoteatra-velikan-park/?page=2 to http://www.adamant-stroy.ru/objects/stroitelstvo-mnogozalnogo-kinoteatra-velikan-park/2/
+00:16:20	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-mnogozalnogo-kinoteatra-velikan-park/?page=3
+00:16:20	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-mnogozalnogo-kinoteatra-velikan-park/?page=3 to http://www.adamant-stroy.ru/objects/stroitelstvo-mnogozalnogo-kinoteatra-velikan-park/3/
+00:16:21	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=342
+00:16:21	Warning: 	File has moved from www.adamant-stroy.ru/?p=342 to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-tk-atlantik-siti/
+00:16:21	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-tk-atlantik-siti/?page=2
+00:16:21	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-tk-atlantik-siti/?page=2 to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-tk-atlantik-siti/2/
+00:16:21	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-tk-atlantik-siti/?page=3
+00:16:21	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-tk-atlantik-siti/?page=3 to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-tk-atlantik-siti/3/
+00:16:21	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=365
+00:16:21	Warning: 	File has moved from www.adamant-stroy.ru/?p=365 to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-tk-mezhdunarodnyj/
+00:16:21	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-tk-mezhdunarodnyj/?page=2
+00:16:21	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-tk-mezhdunarodnyj/?page=2 to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-tk-mezhdunarodnyj/2/
+00:16:21	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-tk-mezhdunarodnyj/?page=3
+00:16:21	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-tk-mezhdunarodnyj/?page=3 to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-tk-mezhdunarodnyj/3/
+00:16:21	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=355
+00:16:21	Warning: 	File has moved from www.adamant-stroy.ru/?p=355 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-mezhdunarodnyj/
+00:16:21	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-mezhdunarodnyj/?page=2
+00:16:21	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-mezhdunarodnyj/?page=2 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-mezhdunarodnyj/2/
+00:16:21	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-mezhdunarodnyj/?page=3
+00:16:21	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-mezhdunarodnyj/?page=3 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-mezhdunarodnyj/3/
+00:16:21	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=332
+00:16:21	Warning: 	File has moved from www.adamant-stroy.ru/?p=332 to http://www.adamant-stroy.ru/objects/rekonstrukciya-inzhenernyx-setej-na-tabachnoj-fabrike-jti-petro/
+00:16:21	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/rekonstrukciya-inzhenernyx-setej-na-tabachnoj-fabrike-jti-petro/?page=2
+00:16:21	Warning: 	File has moved from www.adamant-stroy.ru/objects/rekonstrukciya-inzhenernyx-setej-na-tabachnoj-fabrike-jti-petro/?page=2 to http://www.adamant-stroy.ru/objects/rekonstrukciya-inzhenernyx-setej-na-tabachnoj-fabrike-jti-petro/2/
+00:16:21	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/rekonstrukciya-inzhenernyx-setej-na-tabachnoj-fabrike-jti-petro/?page=3
+00:16:21	Warning: 	File has moved from www.adamant-stroy.ru/objects/rekonstrukciya-inzhenernyx-setej-na-tabachnoj-fabrike-jti-petro/?page=3 to http://www.adamant-stroy.ru/objects/rekonstrukciya-inzhenernyx-setej-na-tabachnoj-fabrike-jti-petro/3/
+00:16:22	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=437
+00:16:22	Warning: 	File has moved from www.adamant-stroy.ru/?p=437 to http://www.adamant-stroy.ru/objects/rekonstrukciya-kinoteatra-kronverk-sinema-v-trk-siti-moll/
+00:16:22	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/rekonstrukciya-kinoteatra-kronverk-sinema-v-trk-siti-moll/?page=2
+00:16:22	Warning: 	File has moved from www.adamant-stroy.ru/objects/rekonstrukciya-kinoteatra-kronverk-sinema-v-trk-siti-moll/?page=2 to http://www.adamant-stroy.ru/objects/rekonstrukciya-kinoteatra-kronverk-sinema-v-trk-siti-moll/2/
+00:16:22	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/rekonstrukciya-kinoteatra-kronverk-sinema-v-trk-siti-moll/?page=3
+00:16:22	Warning: 	File has moved from www.adamant-stroy.ru/objects/rekonstrukciya-kinoteatra-kronverk-sinema-v-trk-siti-moll/?page=3 to http://www.adamant-stroy.ru/objects/rekonstrukciya-kinoteatra-kronverk-sinema-v-trk-siti-moll/3/
+00:16:22	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=440
+00:16:22	Warning: 	File has moved from www.adamant-stroy.ru/?p=440 to http://www.adamant-stroy.ru/objects/kapitalnyj-remont-domov-v-vyborgskom-rajone-soglasno-adresnoj-programme/
+00:16:22	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/kapitalnyj-remont-domov-v-vyborgskom-rajone-soglasno-adresnoj-programme/?page=2
+00:16:22	Warning: 	File has moved from www.adamant-stroy.ru/objects/kapitalnyj-remont-domov-v-vyborgskom-rajone-soglasno-adresnoj-programme/?page=2 to http://www.adamant-stroy.ru/objects/kapitalnyj-remont-domov-v-vyborgskom-rajone-soglasno-adresnoj-programme/2/
+00:16:22	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/kapitalnyj-remont-domov-v-vyborgskom-rajone-soglasno-adresnoj-programme/?page=3
+00:16:22	Warning: 	File has moved from www.adamant-stroy.ru/objects/kapitalnyj-remont-domov-v-vyborgskom-rajone-soglasno-adresnoj-programme/?page=3 to http://www.adamant-stroy.ru/objects/kapitalnyj-remont-domov-v-vyborgskom-rajone-soglasno-adresnoj-programme/3/
+00:16:22	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=438
+00:16:22	Warning: 	File has moved from www.adamant-stroy.ru/?p=438 to http://www.adamant-stroy.ru/objects/rekonstrukciya-trk-varshavskij-ekspress-s-kinocentrom-karo-film/
+00:16:22	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/rekonstrukciya-trk-varshavskij-ekspress-s-kinocentrom-karo-film/?page=2
+00:16:22	Warning: 	File has moved from www.adamant-stroy.ru/objects/rekonstrukciya-trk-varshavskij-ekspress-s-kinocentrom-karo-film/?page=2 to http://www.adamant-stroy.ru/objects/rekonstrukciya-trk-varshavskij-ekspress-s-kinocentrom-karo-film/2/
+00:16:22	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/rekonstrukciya-trk-varshavskij-ekspress-s-kinocentrom-karo-film/?page=3
+00:16:22	Warning: 	File has moved from www.adamant-stroy.ru/objects/rekonstrukciya-trk-varshavskij-ekspress-s-kinocentrom-karo-film/?page=3 to http://www.adamant-stroy.ru/objects/rekonstrukciya-trk-varshavskij-ekspress-s-kinocentrom-karo-film/3/
+00:16:22	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=432
+00:16:22	Warning: 	File has moved from www.adamant-stroy.ru/?p=432 to http://www.adamant-stroy.ru/objects/stroitelstvo-kompleksa-nazemnogo-vestibyulya-stancii-metropolitena-obvodnyj-kanal/
+00:16:22	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-kompleksa-nazemnogo-vestibyulya-stancii-metropolitena-obvodnyj-kanal/?page=2
+00:16:22	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-kompleksa-nazemnogo-vestibyulya-stancii-metropolitena-obvodnyj-kanal/?page=2 to http://www.adamant-stroy.ru/objects/stroitelstvo-kompleksa-nazemnogo-vestibyulya-stancii-metropolitena-obvodnyj-kanal/2/
+00:16:22	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-kompleksa-nazemnogo-vestibyulya-stancii-metropolitena-obvodnyj-kanal/?page=3
+00:16:22	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-kompleksa-nazemnogo-vestibyulya-stancii-metropolitena-obvodnyj-kanal/?page=3 to http://www.adamant-stroy.ru/objects/stroitelstvo-kompleksa-nazemnogo-vestibyulya-stancii-metropolitena-obvodnyj-kanal/3/
+00:16:23	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=366
+00:16:23	Warning: 	File has moved from www.adamant-stroy.ru/?p=366 to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-rtk-varshavskij-ekspress/
+00:16:23	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-rtk-varshavskij-ekspress/?page=2
+00:16:23	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-rtk-varshavskij-ekspress/?page=2 to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-rtk-varshavskij-ekspress/2/
+00:16:23	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-rtk-varshavskij-ekspress/?page=3
+00:16:23	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-rtk-varshavskij-ekspress/?page=3 to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-rtk-varshavskij-ekspress/3/
+00:16:23	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=361
+00:16:23	Warning: 	File has moved from www.adamant-stroy.ru/?p=361 to http://www.adamant-stroy.ru/objects/administrativno-xozyajstvennyj-kompleks-v-portu-ust-luga/
+00:16:23	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/administrativno-xozyajstvennyj-kompleks-v-portu-ust-luga/?page=2
+00:16:23	Warning: 	File has moved from www.adamant-stroy.ru/objects/administrativno-xozyajstvennyj-kompleks-v-portu-ust-luga/?page=2 to http://www.adamant-stroy.ru/objects/administrativno-xozyajstvennyj-kompleks-v-portu-ust-luga/2/
+00:16:23	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/administrativno-xozyajstvennyj-kompleks-v-portu-ust-luga/?page=3
+00:16:23	Warning: 	File has moved from www.adamant-stroy.ru/objects/administrativno-xozyajstvennyj-kompleks-v-portu-ust-luga/?page=3 to http://www.adamant-stroy.ru/objects/administrativno-xozyajstvennyj-kompleks-v-portu-ust-luga/3/
+00:16:23	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=507
+00:16:23	Warning: 	File has moved from www.adamant-stroy.ru/?p=507 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-ligov/
+00:16:23	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-ligov/?page=2
+00:16:23	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-ligov/?page=2 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-ligov/2/
+00:16:23	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-ligov/?page=3
+00:16:23	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-ligov/?page=3 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-ligov/3/
+00:16:23	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=367
+00:16:23	Warning: 	File has moved from www.adamant-stroy.ru/?p=367 to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-tk-ligov/
+00:16:23	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-tk-ligov/?page=2
+00:16:23	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-tk-ligov/?page=2 to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-tk-ligov/2/
+00:16:23	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-tk-ligov/?page=3
+00:16:23	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-tk-ligov/?page=3 to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-tk-ligov/3/
+00:16:24	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=434
+00:16:24	Warning: 	File has moved from www.adamant-stroy.ru/?p=434 to http://www.adamant-stroy.ru/objects/zavod-sklad-rossijskoj-stekolnoj-kompanii-v-pos-pargolovo/
+00:16:24	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/zavod-sklad-rossijskoj-stekolnoj-kompanii-v-pos-pargolovo/?page=2
+00:16:24	Warning: 	File has moved from www.adamant-stroy.ru/objects/zavod-sklad-rossijskoj-stekolnoj-kompanii-v-pos-pargolovo/?page=2 to http://www.adamant-stroy.ru/objects/zavod-sklad-rossijskoj-stekolnoj-kompanii-v-pos-pargolovo/2/
+00:16:24	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/zavod-sklad-rossijskoj-stekolnoj-kompanii-v-pos-pargolovo/?page=3
+00:16:24	Warning: 	File has moved from www.adamant-stroy.ru/objects/zavod-sklad-rossijskoj-stekolnoj-kompanii-v-pos-pargolovo/?page=3 to http://www.adamant-stroy.ru/objects/zavod-sklad-rossijskoj-stekolnoj-kompanii-v-pos-pargolovo/3/
+00:16:24	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=369
+00:16:24	Warning: 	File has moved from www.adamant-stroy.ru/?p=369 to http://www.adamant-stroy.ru/objects/gipermarket-prizma-na-vyborgskom-shosse/
+00:16:24	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/gipermarket-prizma-na-vyborgskom-shosse/?page=2
+00:16:24	Warning: 	File has moved from www.adamant-stroy.ru/objects/gipermarket-prizma-na-vyborgskom-shosse/?page=2 to http://www.adamant-stroy.ru/objects/gipermarket-prizma-na-vyborgskom-shosse/2/
+00:16:24	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/gipermarket-prizma-na-vyborgskom-shosse/?page=3
+00:16:24	Warning: 	File has moved from www.adamant-stroy.ru/objects/gipermarket-prizma-na-vyborgskom-shosse/?page=3 to http://www.adamant-stroy.ru/objects/gipermarket-prizma-na-vyborgskom-shosse/3/
+00:16:24	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=353
+00:16:24	Warning: 	File has moved from www.adamant-stroy.ru/?p=353 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-balkanskij/
+00:16:24	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-balkanskij/?page=2
+00:16:24	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-balkanskij/?page=2 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-balkanskij/2/
+00:16:24	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-balkanskij/?page=3
+00:16:24	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-balkanskij/?page=3 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-balkanskij/3/
+00:16:24	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=119
+00:16:24	Warning: 	File has moved from www.adamant-stroy.ru/?p=119 to http://www.adamant-stroy.ru/objects/zvenigorodsky/
+00:16:24	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=358
+00:16:24	Warning: 	File has moved from www.adamant-stroy.ru/?p=358 to http://www.adamant-stroy.ru/objects/kinoteatr-formula-kino-v-trc-galereya/
+00:16:24	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=364
+00:16:24	Warning: 	File has moved from www.adamant-stroy.ru/?p=364 to http://www.adamant-stroy.ru/objects/zavod-hyundai/
+00:16:24	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=370
+00:16:24	Warning: 	File has moved from www.adamant-stroy.ru/?p=370 to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-merkurij-g-kolpino/
+00:16:24	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-merkurij-g-kolpino/?page=2
+00:16:24	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-merkurij-g-kolpino/?page=2 to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-merkurij-g-kolpino/2/
+00:16:24	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-merkurij-g-kolpino/?page=3
+00:16:24	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-merkurij-g-kolpino/?page=3 to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-merkurij-g-kolpino/3/
+00:16:25	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=372
+00:16:25	Warning: 	File has moved from www.adamant-stroy.ru/?p=372 to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-kontinent/
+00:16:25	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-kontinent/?page=2
+00:16:25	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-kontinent/?page=2 to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-kontinent/2/
+00:16:25	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-kontinent/?page=3
+00:16:25	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-kontinent/?page=3 to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-kontinent/3/
+00:16:25	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=486
+00:16:25	Warning: 	File has moved from www.adamant-stroy.ru/?p=486 to http://www.adamant-stroy.ru/objects/gostinica-na-litejnom/
+00:16:25	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=373
+00:16:25	Warning: 	File has moved from www.adamant-stroy.ru/?p=373 to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-mfk-kontinent/
+00:16:25	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-mfk-kontinent/?page=2
+00:16:25	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-mfk-kontinent/?page=2 to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-mfk-kontinent/2/
+00:16:25	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-mfk-kontinent/?page=3
+00:16:25	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-mfk-kontinent/?page=3 to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-mfk-kontinent/3/
+00:16:25	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=374
+00:16:25	Warning: 	File has moved from www.adamant-stroy.ru/?p=374 to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-bc-lider/
+00:16:25	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-bc-lider/?page=2
+00:16:25	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-bc-lider/?page=2 to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-bc-lider/2/
+00:16:25	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-bc-lider/?page=3
+00:16:25	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-bc-lider/?page=3 to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-bc-lider/3/
+00:16:25	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=375
+00:16:25	Warning: 	File has moved from www.adamant-stroy.ru/?p=375 to http://www.adamant-stroy.ru/objects/gipermarket-prizma-v-novom-devyatkino/
+00:16:25	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/gipermarket-prizma-v-novom-devyatkino/?page=2
+00:16:25	Warning: 	File has moved from www.adamant-stroy.ru/objects/gipermarket-prizma-v-novom-devyatkino/?page=2 to http://www.adamant-stroy.ru/objects/gipermarket-prizma-v-novom-devyatkino/2/
+00:16:25	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/gipermarket-prizma-v-novom-devyatkino/?page=3
+00:16:25	Warning: 	File has moved from www.adamant-stroy.ru/objects/gipermarket-prizma-v-novom-devyatkino/?page=3 to http://www.adamant-stroy.ru/objects/gipermarket-prizma-v-novom-devyatkino/3/
+00:16:26	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=376
+00:16:26	Warning: 	File has moved from www.adamant-stroy.ru/?p=376 to http://www.adamant-stroy.ru/objects/supermarket-prizma-na-pl-al-nevskogo/
+00:16:26	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-na-pl-al-nevskogo/?page=2
+00:16:26	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-na-pl-al-nevskogo/?page=2 to http://www.adamant-stroy.ru/objects/supermarket-prizma-na-pl-al-nevskogo/2/
+00:16:26	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-na-pl-al-nevskogo/?page=3
+00:16:26	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-na-pl-al-nevskogo/?page=3 to http://www.adamant-stroy.ru/objects/supermarket-prizma-na-pl-al-nevskogo/3/
+00:16:26	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=381
+00:16:26	Warning: 	File has moved from www.adamant-stroy.ru/?p=381 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-atmosfera/
+00:16:26	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-atmosfera/?page=2
+00:16:26	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-atmosfera/?page=2 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-atmosfera/2/
+00:16:26	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-atmosfera/?page=3
+00:16:26	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-atmosfera/?page=3 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-atmosfera/3/
+00:16:26	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=407
+00:16:26	Warning: 	File has moved from www.adamant-stroy.ru/?p=407 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-kontinent-na-bajkonurskoj/
+00:16:26	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-kontinent-na-bajkonurskoj/?page=2
+00:16:26	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-kontinent-na-bajkonurskoj/?page=2 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-kontinent-na-bajkonurskoj/2/
+00:16:26	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-kontinent-na-bajkonurskoj/?page=3
+00:16:26	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-kontinent-na-bajkonurskoj/?page=3 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-kontinent-na-bajkonurskoj/3/
+00:16:26	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=393
+00:16:26	Warning: 	File has moved from www.adamant-stroy.ru/?p=393 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-varshavskij-ekspress/
+00:16:26	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-varshavskij-ekspress/?page=2
+00:16:26	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-varshavskij-ekspress/?page=2 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-varshavskij-ekspress/2/
+00:16:26	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-varshavskij-ekspress/?page=3
+00:16:26	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-varshavskij-ekspress/?page=3 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-varshavskij-ekspress/3/
+00:16:27	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=404
+00:16:27	Warning: 	File has moved from www.adamant-stroy.ru/?p=404 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-kontinent-na-stachek/
+00:16:27	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-kontinent-na-stachek/?page=2
+00:16:27	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-kontinent-na-stachek/?page=2 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-kontinent-na-stachek/2/
+00:16:27	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-kontinent-na-stachek/?page=3
+00:16:27	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-kontinent-na-stachek/?page=3 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-kontinent-na-stachek/3/
+00:16:27	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=397
+00:16:27	Warning: 	File has moved from www.adamant-stroy.ru/?p=397 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-zanevskij-kaskad-2/
+00:16:27	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-zanevskij-kaskad-2/?page=2
+00:16:27	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-zanevskij-kaskad-2/?page=2 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-zanevskij-kaskad-2/2/
+00:16:27	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-zanevskij-kaskad-2/?page=3
+00:16:27	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-zanevskij-kaskad-2/?page=3 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-zanevskij-kaskad-2/3/
+00:16:27	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=423
+00:16:27	Warning: 	File has moved from www.adamant-stroy.ru/?p=423 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-ozerki/
+00:16:27	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-ozerki/?page=2
+00:16:27	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-ozerki/?page=2 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-ozerki/2/
+00:16:27	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-ozerki/?page=3
+00:16:27	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-ozerki/?page=3 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-ozerki/3/
+00:16:27	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=419
+00:16:27	Warning: 	File has moved from www.adamant-stroy.ru/?p=419 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-nord/
+00:16:27	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-nord/?page=2
+00:16:27	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-nord/?page=2 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-nord/2/
+00:16:27	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-nord/?page=3
+00:16:27	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-nord/?page=3 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-nord/3/
+00:16:27	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=400
+00:16:27	Warning: 	File has moved from www.adamant-stroy.ru/?p=400 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-zanevskij-kaskad/
+00:16:27	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-zanevskij-kaskad/?page=2
+00:16:27	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-zanevskij-kaskad/?page=2 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-zanevskij-kaskad/2/
+00:16:27	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-zanevskij-kaskad/?page=3
+00:16:27	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-zanevskij-kaskad/?page=3 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-zanevskij-kaskad/3/
+00:16:27	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=14
+00:16:27	Warning: 	File has moved from www.adamant-stroy.ru/?p=14 to http://www.adamant-stroy.ru/objects/trk-merkurij/
+00:16:27	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/trk-merkurij/?page=2
+00:16:27	Warning: 	File has moved from www.adamant-stroy.ru/objects/trk-merkurij/?page=2 to http://www.adamant-stroy.ru/objects/trk-merkurij/2/
+00:16:27	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/trk-merkurij/?page=3
+00:16:27	Warning: 	File has moved from www.adamant-stroy.ru/objects/trk-merkurij/?page=3 to http://www.adamant-stroy.ru/objects/trk-merkurij/3/
+00:16:28	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=377
+00:16:28	Warning: 	File has moved from www.adamant-stroy.ru/?p=377 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-akademicheskij/
+00:16:28	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-akademicheskij/?page=2
+00:16:28	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-akademicheskij/?page=2 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-akademicheskij/2/
+00:16:28	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-akademicheskij/?page=3
+00:16:28	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-akademicheskij/?page=3 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-akademicheskij/3/
+00:16:28	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=415
+00:16:28	Warning: 	File has moved from www.adamant-stroy.ru/?p=415 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-nevskij/
+00:16:28	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-nevskij/?page=2
+00:16:28	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-nevskij/?page=2 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-nevskij/2/
+00:16:28	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-nevskij/?page=3
+00:16:28	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-nevskij/?page=3 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-nevskij/3/
+00:16:28	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=389
+00:16:28	Warning: 	File has moved from www.adamant-stroy.ru/?p=389 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-baltijskij/
+00:16:28	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-baltijskij/?page=2
+00:16:28	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-baltijskij/?page=2 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-baltijskij/2/
+00:16:28	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-baltijskij/?page=3
+00:16:28	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-baltijskij/?page=3 to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-baltijskij/3/
+00:16:28	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=632
+00:16:28	Warning: 	File has moved from www.adamant-stroy.ru/?p=632 to http://www.adamant-stroy.ru/events/nachaty-raboty-po-kapitalnomu-remontu-inzhenernyx-setej-dlya-kompanii-transneft-g-kirishi/
+00:16:28	Warning: 	Moved Permanently for www.adamant-stroy.ru/events/nachaty-raboty-po-kapitalnomu-remontu-inzhenernyx-setej-dlya-kompanii-transneft-g-kirishi/?page=2
+00:16:28	Warning: 	File has moved from www.adamant-stroy.ru/events/nachaty-raboty-po-kapitalnomu-remontu-inzhenernyx-setej-dlya-kompanii-transneft-g-kirishi/?page=2 to http://www.adamant-stroy.ru/events/nachaty-raboty-po-kapitalnomu-remontu-inzhenernyx-setej-dlya-kompanii-transneft-g-kirishi/2/
+00:16:28	Warning: 	Moved Permanently for www.adamant-stroy.ru/events/nachaty-raboty-po-kapitalnomu-remontu-inzhenernyx-setej-dlya-kompanii-transneft-g-kirishi/?page=3
+00:16:28	Warning: 	File has moved from www.adamant-stroy.ru/events/nachaty-raboty-po-kapitalnomu-remontu-inzhenernyx-setej-dlya-kompanii-transneft-g-kirishi/?page=3 to http://www.adamant-stroy.ru/events/nachaty-raboty-po-kapitalnomu-remontu-inzhenernyx-setej-dlya-kompanii-transneft-g-kirishi/3/
+00:16:29	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=586
+00:16:29	Warning: 	File has moved from www.adamant-stroy.ru/?p=586 to http://www.adamant-stroy.ru/events/zaversheny-raboty-po-falcevomu-pokrytiyu-krovli-v-zhilyx-domax-g-pushkin/
+00:16:29	Warning: 	Moved Permanently for www.adamant-stroy.ru/events/zaversheny-raboty-po-falcevomu-pokrytiyu-krovli-v-zhilyx-domax-g-pushkin/?page=2
+00:16:29	Warning: 	File has moved from www.adamant-stroy.ru/events/zaversheny-raboty-po-falcevomu-pokrytiyu-krovli-v-zhilyx-domax-g-pushkin/?page=2 to http://www.adamant-stroy.ru/events/zaversheny-raboty-po-falcevomu-pokrytiyu-krovli-v-zhilyx-domax-g-pushkin/2/
+00:16:29	Warning: 	Moved Permanently for www.adamant-stroy.ru/events/zaversheny-raboty-po-falcevomu-pokrytiyu-krovli-v-zhilyx-domax-g-pushkin/?page=3
+00:16:29	Warning: 	File has moved from www.adamant-stroy.ru/events/zaversheny-raboty-po-falcevomu-pokrytiyu-krovli-v-zhilyx-domax-g-pushkin/?page=3 to http://www.adamant-stroy.ru/events/zaversheny-raboty-po-falcevomu-pokrytiyu-krovli-v-zhilyx-domax-g-pushkin/3/
+00:16:29	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=626
+00:16:29	Warning: 	File has moved from www.adamant-stroy.ru/?p=626 to http://www.adamant-stroy.ru/events/nachaty-raboty-po-rasshireniyu-sborochnogo-cexa-na-zavode-xundaj/
+00:16:29	Warning: 	Moved Permanently for www.adamant-stroy.ru/events/nachaty-raboty-po-rasshireniyu-sborochnogo-cexa-na-zavode-xundaj/?page=2
+00:16:29	Warning: 	File has moved from www.adamant-stroy.ru/events/nachaty-raboty-po-rasshireniyu-sborochnogo-cexa-na-zavode-xundaj/?page=2 to http://www.adamant-stroy.ru/events/nachaty-raboty-po-rasshireniyu-sborochnogo-cexa-na-zavode-xundaj/2/
+00:16:29	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=578
+00:16:29	Warning: 	File has moved from www.adamant-stroy.ru/?p=578 to http://www.adamant-stroy.ru/events/zaversheny-raboty-po-betonirovaniyu-fundamentov-zhilyx-domov-v-karelii/
+00:16:29	Warning: 	Moved Permanently for www.adamant-stroy.ru/events/zaversheny-raboty-po-betonirovaniyu-fundamentov-zhilyx-domov-v-karelii/?page=2
+00:16:29	Warning: 	File has moved from www.adamant-stroy.ru/events/zaversheny-raboty-po-betonirovaniyu-fundamentov-zhilyx-domov-v-karelii/?page=2 to http://www.adamant-stroy.ru/events/zaversheny-raboty-po-betonirovaniyu-fundamentov-zhilyx-domov-v-karelii/2/
+00:16:29	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=600
+00:16:29	Warning: 	File has moved from www.adamant-stroy.ru/?p=600 to http://www.adamant-stroy.ru/events/zavershenie-zalivki-betona-na-komplekse-kinef-v-g-kirishi/
+00:16:29	Warning: 	Moved Permanently for www.adamant-stroy.ru/events/zavershenie-zalivki-betona-na-komplekse-kinef-v-g-kirishi/?page=2
+00:16:29	Warning: 	File has moved from www.adamant-stroy.ru/events/zavershenie-zalivki-betona-na-komplekse-kinef-v-g-kirishi/?page=2 to http://www.adamant-stroy.ru/events/zavershenie-zalivki-betona-na-komplekse-kinef-v-g-kirishi/2/
+00:16:29	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=639
+00:16:29	Warning: 	File has moved from www.adamant-stroy.ru/?p=639 to http://www.adamant-stroy.ru/events/zaversheny-raboty-po-remontu-fasada-i-krovli-sklada-fkgu-kombinat-ladoga/
+00:16:29	Warning: 	Moved Permanently for www.adamant-stroy.ru/events/zaversheny-raboty-po-remontu-fasada-i-krovli-sklada-fkgu-kombinat-ladoga/?page=2
+00:16:29	Warning: 	File has moved from www.adamant-stroy.ru/events/zaversheny-raboty-po-remontu-fasada-i-krovli-sklada-fkgu-kombinat-ladoga/?page=2 to http://www.adamant-stroy.ru/events/zaversheny-raboty-po-remontu-fasada-i-krovli-sklada-fkgu-kombinat-ladoga/2/
+00:16:29	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=492
+00:16:29	Warning: 	File has moved from www.adamant-stroy.ru/?p=492 to http://www.adamant-stroy.ru/events/podpisan-dogovor-na-stroitelstvo-kinoteatra-formula-kino-v-tc-galeria/
+00:16:29	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=494
+00:16:29	Warning: 	File has moved from www.adamant-stroy.ru/?p=494 to http://www.adamant-stroy.ru/events/adamant-stroj-zakanchivaet-svoyu-chast-rabot-na-obekte-zavoda-hyundai/
+00:16:29	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=495
+00:16:29	Warning: 	File has moved from www.adamant-stroy.ru/?p=495 to http://www.adamant-stroy.ru/events/aktivno-idut-peregovory-po-zaklyucheniyu-kontrakta-na-vypolnenie-kompleks-rabot-v-portu-ust-luga/
+00:16:29	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=490
+00:16:29	Warning: 	File has moved from www.adamant-stroy.ru/?p=490 to http://www.adamant-stroy.ru/events/zavershenie-rabot-po-rekonstrukcii-zdaniya-litejnyj-pr-519-pod-gostinicu/
+00:16:29	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=15
+00:16:29	Warning: 	File has moved from www.adamant-stroy.ru/?p=15 to http://www.adamant-stroy.ru/events/startzvenigorodsky/
+00:16:29	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=1264
+00:16:29	Warning: 	File has moved from www.adamant-stroy.ru/?p=1264 to http://www.adamant-stroy.ru/tenders/tender-na-blagoustrojstvo-territorii/
+00:16:29	Warning: 	Moved Permanently for www.adamant-stroy.ru/tenders/tender-na-blagoustrojstvo-territorii/?page=2
+00:16:29	Warning: 	File has moved from www.adamant-stroy.ru/tenders/tender-na-blagoustrojstvo-territorii/?page=2 to http://www.adamant-stroy.ru/tenders/tender-na-blagoustrojstvo-territorii/2/
+00:16:29	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=1212
+00:16:29	Warning: 	File has moved from www.adamant-stroy.ru/?p=1212 to http://www.adamant-stroy.ru/tenders/xolodosnabzhenie-torgovogo-razvlekatelnogo-centra/
+00:16:29	Warning: 	Moved Permanently for www.adamant-stroy.ru/tenders/xolodosnabzhenie-torgovogo-razvlekatelnogo-centra/?page=2
+00:16:29	Warning: 	File has moved from www.adamant-stroy.ru/tenders/xolodosnabzhenie-torgovogo-razvlekatelnogo-centra/?page=2 to http://www.adamant-stroy.ru/tenders/xolodosnabzhenie-torgovogo-razvlekatelnogo-centra/2/
+00:16:30	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=1217
+00:16:30	Warning: 	File has moved from www.adamant-stroy.ru/?p=1217 to http://www.adamant-stroy.ru/tenders/ustroystvo_fasadov_iz_naturalnogo_kamnya/
+00:16:30	Warning: 	Moved Permanently for www.adamant-stroy.ru/tenders/ustroystvo_fasadov_iz_naturalnogo_kamnya/?page=2
+00:16:30	Warning: 	File has moved from www.adamant-stroy.ru/tenders/ustroystvo_fasadov_iz_naturalnogo_kamnya/?page=2 to http://www.adamant-stroy.ru/tenders/ustroystvo_fasadov_iz_naturalnogo_kamnya/2/
+00:16:30	Warning: 	Moved Permanently for www.adamant-stroy.ru/?p=1209
+00:16:30	Warning: 	File has moved from www.adamant-stroy.ru/?p=1209 to http://www.adamant-stroy.ru/tenders/tender-na-ustrojstvo-fundamentnoj-plity-g-moskva/
+00:16:30	Warning: 	Moved Permanently for www.adamant-stroy.ru/tenders/tender-na-ustrojstvo-fundamentnoj-plity-g-moskva/?page=2
+00:16:30	Warning: 	File has moved from www.adamant-stroy.ru/tenders/tender-na-ustrojstvo-fundamentnoj-plity-g-moskva/?page=2 to http://www.adamant-stroy.ru/tenders/tender-na-ustrojstvo-fundamentnoj-plity-g-moskva/2/
+00:16:30	Error: 	"Connect Error" (-4) after 2 retries at link https://mc.yandex.ru/metrika/watch.js (from www.adamant-stroy.ru/)
+00:16:30	Warning: 	Moved Permanently for www.adamant-stroy.ru/?page=2&post_type=objects&p=1261
+00:16:30	Warning: 	File has moved from www.adamant-stroy.ru/?page=2&post_type=objects&p=1261 to http://www.adamant-stroy.ru/?post_type=objects&p=1261/2/
+00:16:30	Warning: 	Moved Permanently for www.adamant-stroy.ru/?page=3&post_type=objects&p=1261
+00:16:30	Warning: 	File has moved from www.adamant-stroy.ru/?page=3&post_type=objects&p=1261 to http://www.adamant-stroy.ru/?post_type=objects&p=1261/3/
+00:16:31	Warning: 	Moved Permanently for www.adamant-stroy.ru/?page=2&post_type=objects&p=952
+00:16:31	Warning: 	File has moved from www.adamant-stroy.ru/?page=2&post_type=objects&p=952 to http://www.adamant-stroy.ru/?post_type=objects&p=952/2/
+00:16:31	Warning: 	Moved Permanently for www.adamant-stroy.ru/?page=3&post_type=objects&p=952
+00:16:31	Warning: 	File has moved from www.adamant-stroy.ru/?page=3&post_type=objects&p=952 to http://www.adamant-stroy.ru/?post_type=objects&p=952/3/
+00:16:31	Warning: 	Moved Permanently for www.adamant-stroy.ru/?post_type=objects%26p=960
+00:16:31	Warning: 	File has moved from www.adamant-stroy.ru/?post_type=objects%26p=960 to http://www.adamant-stroy.ru/?post_type=objects%26p%3D960
+00:16:31	Warning: 	Moved Permanently for www.adamant-stroy.ru/?post_type=objects%26p=960/2/
+00:16:31	Warning: 	File has moved from www.adamant-stroy.ru/?post_type=objects%26p=960/2/ to http://www.adamant-stroy.ru/?post_type=objects%26p%3D960%2F2%2F
+00:16:32	Warning: 	Moved Permanently for www.adamant-stroy.ru/?post_type=objects%26p=960/3/
+00:16:32	Warning: 	File has moved from www.adamant-stroy.ru/?post_type=objects%26p=960/3/ to http://www.adamant-stroy.ru/?post_type=objects%26p%3D960%2F3%2F
+00:16:32	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/remont-ofisnogo-zdaniya-v-g-sankt-peterburg-na-ul-aviakonstruktorov/2/
+00:16:32	Warning: 	File has moved from www.adamant-stroy.ru/objects/remont-ofisnogo-zdaniya-v-g-sankt-peterburg-na-ul-aviakonstruktorov/2/ to http://www.adamant-stroy.ru/objects/remont-ofisnogo-zdaniya-v-g-sankt-peterburg-na-ul-aviakonstruktorov/
+00:16:34	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/remont-ofisnogo-zdaniya-v-g-sankt-peterburg-na-ul-aviakonstruktorov/3/
+00:16:34	Warning: 	File has moved from www.adamant-stroy.ru/objects/remont-ofisnogo-zdaniya-v-g-sankt-peterburg-na-ul-aviakonstruktorov/3/ to http://www.adamant-stroy.ru/objects/remont-ofisnogo-zdaniya-v-g-sankt-peterburg-na-ul-aviakonstruktorov/
+00:16:34	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/biznes-centr-viktoriya-plaza/2/
+00:16:34	Warning: 	File has moved from www.adamant-stroy.ru/objects/biznes-centr-viktoriya-plaza/2/ to http://www.adamant-stroy.ru/objects/biznes-centr-viktoriya-plaza/
+00:16:34	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/biznes-centr-viktoriya-plaza/3/
+00:16:34	Warning: 	File has moved from www.adamant-stroy.ru/objects/biznes-centr-viktoriya-plaza/3/ to http://www.adamant-stroy.ru/objects/biznes-centr-viktoriya-plaza/
+00:16:34	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/skladskoj-kompleks-dlya-x5-retail-group-badaevskij-v-p-shushary/2/
+00:16:34	Warning: 	File has moved from www.adamant-stroy.ru/objects/skladskoj-kompleks-dlya-x5-retail-group-badaevskij-v-p-shushary/2/ to http://www.adamant-stroy.ru/objects/skladskoj-kompleks-dlya-x5-retail-group-badaevskij-v-p-shushary/
+00:16:34	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/skladskoj-kompleks-dlya-x5-retail-group-badaevskij-v-p-shushary/3/
+00:16:34	Warning: 	File has moved from www.adamant-stroy.ru/objects/skladskoj-kompleks-dlya-x5-retail-group-badaevskij-v-p-shushary/3/ to http://www.adamant-stroy.ru/objects/skladskoj-kompleks-dlya-x5-retail-group-badaevskij-v-p-shushary/
+00:16:34	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/skladskoj-kompleks-armada-park/2/
+00:16:34	Warning: 	File has moved from www.adamant-stroy.ru/objects/skladskoj-kompleks-armada-park/2/ to http://www.adamant-stroy.ru/objects/skladskoj-kompleks-armada-park/
+00:16:34	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/skladskoj-kompleks-armada-park/3/
+00:16:34	Warning: 	File has moved from www.adamant-stroy.ru/objects/skladskoj-kompleks-armada-park/3/ to http://www.adamant-stroy.ru/objects/skladskoj-kompleks-armada-park/
+00:16:34	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/rekonstrukciya-zdaniya-avtostoyanki-pod-bc-senator/2/
+00:16:34	Warning: 	File has moved from www.adamant-stroy.ru/objects/rekonstrukciya-zdaniya-avtostoyanki-pod-bc-senator/2/ to http://www.adamant-stroy.ru/objects/rekonstrukciya-zdaniya-avtostoyanki-pod-bc-senator/
+00:16:34	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/rekonstrukciya-zdaniya-avtostoyanki-pod-bc-senator/3/
+00:16:34	Warning: 	File has moved from www.adamant-stroy.ru/objects/rekonstrukciya-zdaniya-avtostoyanki-pod-bc-senator/3/ to http://www.adamant-stroy.ru/objects/rekonstrukciya-zdaniya-avtostoyanki-pod-bc-senator/
+00:16:34	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-karaulnogo-pomeshheniya-nps-pes-dlya-kompanii-transneft-2/2/
+00:16:34	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-karaulnogo-pomeshheniya-nps-pes-dlya-kompanii-transneft-2/2/ to http://www.adamant-stroy.ru/objects/stroitelstvo-karaulnogo-pomeshheniya-nps-pes-dlya-kompanii-transneft-2/
+00:16:34	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-karaulnogo-pomeshheniya-nps-pes-dlya-kompanii-transneft-2/3/
+00:16:34	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-karaulnogo-pomeshheniya-nps-pes-dlya-kompanii-transneft-2/3/ to http://www.adamant-stroy.ru/objects/stroitelstvo-karaulnogo-pomeshheniya-nps-pes-dlya-kompanii-transneft-2/
+00:16:34	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-parkingov-na-leninskom-prospekte-na-dunajskom-prospekte/2/
+00:16:34	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-parkingov-na-leninskom-prospekte-na-dunajskom-prospekte/2/ to http://www.adamant-stroy.ru/objects/stroitelstvo-parkingov-na-leninskom-prospekte-na-dunajskom-prospekte/
+00:16:34	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-parkingov-na-leninskom-prospekte-na-dunajskom-prospekte/3/
+00:16:34	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-parkingov-na-leninskom-prospekte-na-dunajskom-prospekte/3/ to http://www.adamant-stroy.ru/objects/stroitelstvo-parkingov-na-leninskom-prospekte-na-dunajskom-prospekte/
+00:16:34	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-zdaniya-sportivno-ozdorovitelnogo-kompleksa-v-mytishhax/2/
+00:16:34	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-zdaniya-sportivno-ozdorovitelnogo-kompleksa-v-mytishhax/2/ to http://www.adamant-stroy.ru/objects/stroitelstvo-zdaniya-sportivno-ozdorovitelnogo-kompleksa-v-mytishhax/
+00:16:34	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-zdaniya-sportivno-ozdorovitelnogo-kompleksa-v-mytishhax/3/
+00:16:34	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-zdaniya-sportivno-ozdorovitelnogo-kompleksa-v-mytishhax/3/ to http://www.adamant-stroy.ru/objects/stroitelstvo-zdaniya-sportivno-ozdorovitelnogo-kompleksa-v-mytishhax/
+00:16:34	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/kompleks-rabot-na-obekte-zhiloj-kompleks-novoorlovskij-na-suzdalskom-shosse-dlya-kompanii-yuit/2/
+00:16:34	Warning: 	File has moved from www.adamant-stroy.ru/objects/kompleks-rabot-na-obekte-zhiloj-kompleks-novoorlovskij-na-suzdalskom-shosse-dlya-kompanii-yuit/2/ to http://www.adamant-stroy.ru/objects/kompleks-rabot-na-obekte-zhiloj-kompleks-novoorlovskij-na-suzdalskom-shosse-dlya-kompanii-yuit/
+00:16:34	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/kompleks-rabot-na-obekte-zhiloj-kompleks-novoorlovskij-na-suzdalskom-shosse-dlya-kompanii-yuit/3/
+00:16:34	Warning: 	File has moved from www.adamant-stroy.ru/objects/kompleks-rabot-na-obekte-zhiloj-kompleks-novoorlovskij-na-suzdalskom-shosse-dlya-kompanii-yuit/3/ to http://www.adamant-stroy.ru/objects/kompleks-rabot-na-obekte-zhiloj-kompleks-novoorlovskij-na-suzdalskom-shosse-dlya-kompanii-yuit/
+00:16:34	Warning: 	Moved Permanently for www.adamant-stroy.ru/?post_type=objects%26p=1261
+00:16:34	Warning: 	File has moved from www.adamant-stroy.ru/?post_type=objects%26p=1261 to http://www.adamant-stroy.ru/?post_type=objects%26p%3D1261
+00:16:35	Warning: 	Moved Permanently for www.adamant-stroy.ru/?post_type=objects%26p=635
+00:16:35	Warning: 	File has moved from www.adamant-stroy.ru/?post_type=objects%26p=635 to http://www.adamant-stroy.ru/?post_type=objects%26p%3D635
+00:16:37	Warning: 	Moved Permanently for www.adamant-stroy.ru/?post_type=objects%26p=952
+00:16:37	Warning: 	File has moved from www.adamant-stroy.ru/?post_type=objects%26p=952 to http://www.adamant-stroy.ru/?post_type=objects%26p%3D952
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/zavod-rsk-po-pererabotke-distribucii-stekla/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/zavod-rsk-po-pererabotke-distribucii-stekla/2/ to http://www.adamant-stroy.ru/objects/zavod-rsk-po-pererabotke-distribucii-stekla/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/zavod-rsk-po-pererabotke-distribucii-stekla/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/zavod-rsk-po-pererabotke-distribucii-stekla/3/ to http://www.adamant-stroy.ru/objects/zavod-rsk-po-pererabotke-distribucii-stekla/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/gipermarket-prizma-v-trk-evropolis/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/gipermarket-prizma-v-trk-evropolis/2/ to http://www.adamant-stroy.ru/objects/gipermarket-prizma-v-trk-evropolis/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/gipermarket-prizma-v-trk-evropolis/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/gipermarket-prizma-v-trk-evropolis/3/ to http://www.adamant-stroy.ru/objects/gipermarket-prizma-v-trk-evropolis/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/podgotovka-pod-stroitelstvo-kinoteatra-mirazh-v-trk-evropolis/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/podgotovka-pod-stroitelstvo-kinoteatra-mirazh-v-trk-evropolis/2/ to http://www.adamant-stroy.ru/objects/podgotovka-pod-stroitelstvo-kinoteatra-mirazh-v-trk-evropolis/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/podgotovka-pod-stroitelstvo-kinoteatra-mirazh-v-trk-evropolis/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/podgotovka-pod-stroitelstvo-kinoteatra-mirazh-v-trk-evropolis/3/ to http://www.adamant-stroy.ru/objects/podgotovka-pod-stroitelstvo-kinoteatra-mirazh-v-trk-evropolis/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-trc-monpanse/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-trc-monpanse/2/ to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-trc-monpanse/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-trc-monpanse/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-trc-monpanse/3/ to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-trc-monpanse/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/pozharnoe-depo-ii-tipa-na-2-avtomobilya/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/pozharnoe-depo-ii-tipa-na-2-avtomobilya/2/ to http://www.adamant-stroy.ru/objects/pozharnoe-depo-ii-tipa-na-2-avtomobilya/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/pozharnoe-depo-ii-tipa-na-2-avtomobilya/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/pozharnoe-depo-ii-tipa-na-2-avtomobilya/3/ to http://www.adamant-stroy.ru/objects/pozharnoe-depo-ii-tipa-na-2-avtomobilya/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/rekonstrukciya-estakady-pod-sklad-s-abk/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/rekonstrukciya-estakady-pod-sklad-s-abk/2/ to http://www.adamant-stroy.ru/objects/rekonstrukciya-estakady-pod-sklad-s-abk/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/rekonstrukciya-estakady-pod-sklad-s-abk/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/rekonstrukciya-estakady-pod-sklad-s-abk/3/ to http://www.adamant-stroy.ru/objects/rekonstrukciya-estakady-pod-sklad-s-abk/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/cex-rsk-po-pererabotke-distribucii-stekla/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/cex-rsk-po-pererabotke-distribucii-stekla/2/ to http://www.adamant-stroy.ru/objects/cex-rsk-po-pererabotke-distribucii-stekla/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/cex-rsk-po-pererabotke-distribucii-stekla/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/cex-rsk-po-pererabotke-distribucii-stekla/3/ to http://www.adamant-stroy.ru/objects/cex-rsk-po-pererabotke-distribucii-stekla/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-3j-ocheredi-trk-zanevskij-kaskad/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-3j-ocheredi-trk-zanevskij-kaskad/2/ to http://www.adamant-stroy.ru/objects/stroitelstvo-3j-ocheredi-trk-zanevskij-kaskad/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-3j-ocheredi-trk-zanevskij-kaskad/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-3j-ocheredi-trk-zanevskij-kaskad/3/ to http://www.adamant-stroy.ru/objects/stroitelstvo-3j-ocheredi-trk-zanevskij-kaskad/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/renovaciya-kinoteatra-kronverk-sinema-v-tc-zanevskij-kaskad/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/renovaciya-kinoteatra-kronverk-sinema-v-tc-zanevskij-kaskad/2/ to http://www.adamant-stroy.ru/objects/renovaciya-kinoteatra-kronverk-sinema-v-tc-zanevskij-kaskad/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/renovaciya-kinoteatra-kronverk-sinema-v-tc-zanevskij-kaskad/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/renovaciya-kinoteatra-kronverk-sinema-v-tc-zanevskij-kaskad/3/ to http://www.adamant-stroy.ru/objects/renovaciya-kinoteatra-kronverk-sinema-v-tc-zanevskij-kaskad/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/renovaciya-kinoteatra-kronverk-sinema-v-tc-balkanskij/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/renovaciya-kinoteatra-kronverk-sinema-v-tc-balkanskij/2/ to http://www.adamant-stroy.ru/objects/renovaciya-kinoteatra-kronverk-sinema-v-tc-balkanskij/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/renovaciya-kinoteatra-kronverk-sinema-v-tc-balkanskij/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/renovaciya-kinoteatra-kronverk-sinema-v-tc-balkanskij/3/ to http://www.adamant-stroy.ru/objects/renovaciya-kinoteatra-kronverk-sinema-v-tc-balkanskij/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/renovaciya-pomeshheniya-kinoteatra-kronverk-sinema-v-tk-baltijskij/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/renovaciya-pomeshheniya-kinoteatra-kronverk-sinema-v-tk-baltijskij/2/ to http://www.adamant-stroy.ru/objects/renovaciya-pomeshheniya-kinoteatra-kronverk-sinema-v-tk-baltijskij/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/renovaciya-pomeshheniya-kinoteatra-kronverk-sinema-v-tk-baltijskij/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/renovaciya-pomeshheniya-kinoteatra-kronverk-sinema-v-tk-baltijskij/3/ to http://www.adamant-stroy.ru/objects/renovaciya-pomeshheniya-kinoteatra-kronverk-sinema-v-tk-baltijskij/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-baltijskij/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-baltijskij/2/ to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-baltijskij/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-baltijskij/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-baltijskij/3/ to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-baltijskij/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-pyat-ozer/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-pyat-ozer/2/ to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-pyat-ozer/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-pyat-ozer/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-pyat-ozer/3/ to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-pyat-ozer/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/rekonstrukciya-gostinicy-moskva/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/rekonstrukciya-gostinicy-moskva/2/ to http://www.adamant-stroy.ru/objects/rekonstrukciya-gostinicy-moskva/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/rekonstrukciya-gostinicy-moskva/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/rekonstrukciya-gostinicy-moskva/3/ to http://www.adamant-stroy.ru/objects/rekonstrukciya-gostinicy-moskva/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/kinoteatr-formula-kino-v-mfk-zhemchuzhnaya-plaza/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/kinoteatr-formula-kino-v-mfk-zhemchuzhnaya-plaza/2/ to http://www.adamant-stroy.ru/objects/kinoteatr-formula-kino-v-mfk-zhemchuzhnaya-plaza/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/kinoteatr-formula-kino-v-mfk-zhemchuzhnaya-plaza/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/kinoteatr-formula-kino-v-mfk-zhemchuzhnaya-plaza/3/ to http://www.adamant-stroy.ru/objects/kinoteatr-formula-kino-v-mfk-zhemchuzhnaya-plaza/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/gipermarket-prizma-v-tc-zhemchuzhnaya-plaza/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/gipermarket-prizma-v-tc-zhemchuzhnaya-plaza/2/ to http://www.adamant-stroy.ru/objects/gipermarket-prizma-v-tc-zhemchuzhnaya-plaza/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/gipermarket-prizma-v-tc-zhemchuzhnaya-plaza/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/gipermarket-prizma-v-tc-zhemchuzhnaya-plaza/3/ to http://www.adamant-stroy.ru/objects/gipermarket-prizma-v-tc-zhemchuzhnaya-plaza/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/kapitalnyj-remont-kinokoncertnogo-zala-v-universitete-kino-televideniya/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/kapitalnyj-remont-kinokoncertnogo-zala-v-universitete-kino-televideniya/2/ to http://www.adamant-stroy.ru/objects/kapitalnyj-remont-kinokoncertnogo-zala-v-universitete-kino-televideniya/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/kapitalnyj-remont-kinokoncertnogo-zala-v-universitete-kino-televideniya/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/kapitalnyj-remont-kinokoncertnogo-zala-v-universitete-kino-televideniya/3/ to http://www.adamant-stroy.ru/objects/kapitalnyj-remont-kinokoncertnogo-zala-v-universitete-kino-televideniya/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-kontinent-na-buxarestskoj/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-kontinent-na-buxarestskoj/2/ to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-kontinent-na-buxarestskoj/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-kontinent-na-buxarestskoj/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-kontinent-na-buxarestskoj/3/ to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-kontinent-na-buxarestskoj/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-2j-ocheredi-trk-kontinent/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-2j-ocheredi-trk-kontinent/2/ to http://www.adamant-stroy.ru/objects/stroitelstvo-2j-ocheredi-trk-kontinent/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-2j-ocheredi-trk-kontinent/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-2j-ocheredi-trk-kontinent/3/ to http://www.adamant-stroy.ru/objects/stroitelstvo-2j-ocheredi-trk-kontinent/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/kinoteatr-formula-kino-v-trc-piter-lend/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/kinoteatr-formula-kino-v-trc-piter-lend/2/ to http://www.adamant-stroy.ru/objects/kinoteatr-formula-kino-v-trc-piter-lend/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/kinoteatr-formula-kino-v-trc-piter-lend/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/kinoteatr-formula-kino-v-trc-piter-lend/3/ to http://www.adamant-stroy.ru/objects/kinoteatr-formula-kino-v-trc-piter-lend/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/gipermarket-prizma-v-trk-balkaniya-nova/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/gipermarket-prizma-v-trk-balkaniya-nova/2/ to http://www.adamant-stroy.ru/objects/gipermarket-prizma-v-trk-balkaniya-nova/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/gipermarket-prizma-v-trk-balkaniya-nova/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/gipermarket-prizma-v-trk-balkaniya-nova/3/ to http://www.adamant-stroy.ru/objects/gipermarket-prizma-v-trk-balkaniya-nova/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/gipermarket-prizma-v-tk-kontinent/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/gipermarket-prizma-v-tk-kontinent/2/ to http://www.adamant-stroy.ru/objects/gipermarket-prizma-v-tk-kontinent/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/gipermarket-prizma-v-tk-kontinent/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/gipermarket-prizma-v-tk-kontinent/3/ to http://www.adamant-stroy.ru/objects/gipermarket-prizma-v-tk-kontinent/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/gipermarket-prizma-v-trk-grand-kanon/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/gipermarket-prizma-v-trk-grand-kanon/2/ to http://www.adamant-stroy.ru/objects/gipermarket-prizma-v-trk-grand-kanon/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/gipermarket-prizma-v-trk-grand-kanon/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/gipermarket-prizma-v-trk-grand-kanon/3/ to http://www.adamant-stroy.ru/objects/gipermarket-prizma-v-trk-grand-kanon/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-mnogozalnogo-kinoteatra-velikan-park/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-mnogozalnogo-kinoteatra-velikan-park/2/ to http://www.adamant-stroy.ru/objects/stroitelstvo-mnogozalnogo-kinoteatra-velikan-park/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-mnogozalnogo-kinoteatra-velikan-park/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-mnogozalnogo-kinoteatra-velikan-park/3/ to http://www.adamant-stroy.ru/objects/stroitelstvo-mnogozalnogo-kinoteatra-velikan-park/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-tk-atlantik-siti/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-tk-atlantik-siti/2/ to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-tk-atlantik-siti/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-tk-atlantik-siti/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-tk-atlantik-siti/3/ to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-tk-atlantik-siti/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-tk-mezhdunarodnyj/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-tk-mezhdunarodnyj/2/ to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-tk-mezhdunarodnyj/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-tk-mezhdunarodnyj/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-tk-mezhdunarodnyj/3/ to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-tk-mezhdunarodnyj/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-mezhdunarodnyj/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-mezhdunarodnyj/2/ to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-mezhdunarodnyj/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-mezhdunarodnyj/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-mezhdunarodnyj/3/ to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-mezhdunarodnyj/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/rekonstrukciya-inzhenernyx-setej-na-tabachnoj-fabrike-jti-petro/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/rekonstrukciya-inzhenernyx-setej-na-tabachnoj-fabrike-jti-petro/2/ to http://www.adamant-stroy.ru/objects/rekonstrukciya-inzhenernyx-setej-na-tabachnoj-fabrike-jti-petro/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/rekonstrukciya-inzhenernyx-setej-na-tabachnoj-fabrike-jti-petro/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/rekonstrukciya-inzhenernyx-setej-na-tabachnoj-fabrike-jti-petro/3/ to http://www.adamant-stroy.ru/objects/rekonstrukciya-inzhenernyx-setej-na-tabachnoj-fabrike-jti-petro/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/rekonstrukciya-kinoteatra-kronverk-sinema-v-trk-siti-moll/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/rekonstrukciya-kinoteatra-kronverk-sinema-v-trk-siti-moll/2/ to http://www.adamant-stroy.ru/objects/rekonstrukciya-kinoteatra-kronverk-sinema-v-trk-siti-moll/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/rekonstrukciya-kinoteatra-kronverk-sinema-v-trk-siti-moll/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/rekonstrukciya-kinoteatra-kronverk-sinema-v-trk-siti-moll/3/ to http://www.adamant-stroy.ru/objects/rekonstrukciya-kinoteatra-kronverk-sinema-v-trk-siti-moll/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/kapitalnyj-remont-domov-v-vyborgskom-rajone-soglasno-adresnoj-programme/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/kapitalnyj-remont-domov-v-vyborgskom-rajone-soglasno-adresnoj-programme/2/ to http://www.adamant-stroy.ru/objects/kapitalnyj-remont-domov-v-vyborgskom-rajone-soglasno-adresnoj-programme/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/kapitalnyj-remont-domov-v-vyborgskom-rajone-soglasno-adresnoj-programme/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/kapitalnyj-remont-domov-v-vyborgskom-rajone-soglasno-adresnoj-programme/3/ to http://www.adamant-stroy.ru/objects/kapitalnyj-remont-domov-v-vyborgskom-rajone-soglasno-adresnoj-programme/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/rekonstrukciya-trk-varshavskij-ekspress-s-kinocentrom-karo-film/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/rekonstrukciya-trk-varshavskij-ekspress-s-kinocentrom-karo-film/2/ to http://www.adamant-stroy.ru/objects/rekonstrukciya-trk-varshavskij-ekspress-s-kinocentrom-karo-film/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/rekonstrukciya-trk-varshavskij-ekspress-s-kinocentrom-karo-film/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/rekonstrukciya-trk-varshavskij-ekspress-s-kinocentrom-karo-film/3/ to http://www.adamant-stroy.ru/objects/rekonstrukciya-trk-varshavskij-ekspress-s-kinocentrom-karo-film/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-kompleksa-nazemnogo-vestibyulya-stancii-metropolitena-obvodnyj-kanal/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-kompleksa-nazemnogo-vestibyulya-stancii-metropolitena-obvodnyj-kanal/2/ to http://www.adamant-stroy.ru/objects/stroitelstvo-kompleksa-nazemnogo-vestibyulya-stancii-metropolitena-obvodnyj-kanal/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-kompleksa-nazemnogo-vestibyulya-stancii-metropolitena-obvodnyj-kanal/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-kompleksa-nazemnogo-vestibyulya-stancii-metropolitena-obvodnyj-kanal/3/ to http://www.adamant-stroy.ru/objects/stroitelstvo-kompleksa-nazemnogo-vestibyulya-stancii-metropolitena-obvodnyj-kanal/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-rtk-varshavskij-ekspress/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-rtk-varshavskij-ekspress/2/ to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-rtk-varshavskij-ekspress/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-rtk-varshavskij-ekspress/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-rtk-varshavskij-ekspress/3/ to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-rtk-varshavskij-ekspress/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/administrativno-xozyajstvennyj-kompleks-v-portu-ust-luga/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/administrativno-xozyajstvennyj-kompleks-v-portu-ust-luga/2/ to http://www.adamant-stroy.ru/objects/administrativno-xozyajstvennyj-kompleks-v-portu-ust-luga/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/administrativno-xozyajstvennyj-kompleks-v-portu-ust-luga/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/administrativno-xozyajstvennyj-kompleks-v-portu-ust-luga/3/ to http://www.adamant-stroy.ru/objects/administrativno-xozyajstvennyj-kompleks-v-portu-ust-luga/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-ligov/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-ligov/2/ to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-ligov/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-ligov/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-ligov/3/ to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-ligov/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-tk-ligov/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-tk-ligov/2/ to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-tk-ligov/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-tk-ligov/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-tk-ligov/3/ to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-tk-ligov/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/zavod-sklad-rossijskoj-stekolnoj-kompanii-v-pos-pargolovo/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/zavod-sklad-rossijskoj-stekolnoj-kompanii-v-pos-pargolovo/2/ to http://www.adamant-stroy.ru/objects/zavod-sklad-rossijskoj-stekolnoj-kompanii-v-pos-pargolovo/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/zavod-sklad-rossijskoj-stekolnoj-kompanii-v-pos-pargolovo/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/zavod-sklad-rossijskoj-stekolnoj-kompanii-v-pos-pargolovo/3/ to http://www.adamant-stroy.ru/objects/zavod-sklad-rossijskoj-stekolnoj-kompanii-v-pos-pargolovo/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/gipermarket-prizma-na-vyborgskom-shosse/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/gipermarket-prizma-na-vyborgskom-shosse/2/ to http://www.adamant-stroy.ru/objects/gipermarket-prizma-na-vyborgskom-shosse/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/gipermarket-prizma-na-vyborgskom-shosse/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/gipermarket-prizma-na-vyborgskom-shosse/3/ to http://www.adamant-stroy.ru/objects/gipermarket-prizma-na-vyborgskom-shosse/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-balkanskij/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-balkanskij/2/ to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-balkanskij/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-balkanskij/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-balkanskij/3/ to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-balkanskij/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-merkurij-g-kolpino/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-merkurij-g-kolpino/2/ to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-merkurij-g-kolpino/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-merkurij-g-kolpino/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-merkurij-g-kolpino/3/ to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-merkurij-g-kolpino/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-kontinent/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-kontinent/2/ to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-kontinent/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-kontinent/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-kontinent/3/ to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-trk-kontinent/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-mfk-kontinent/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-mfk-kontinent/2/ to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-mfk-kontinent/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-mfk-kontinent/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-mfk-kontinent/3/ to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-mfk-kontinent/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-bc-lider/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-bc-lider/2/ to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-bc-lider/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-v-bc-lider/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-v-bc-lider/3/ to http://www.adamant-stroy.ru/objects/supermarket-prizma-v-bc-lider/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/gipermarket-prizma-v-novom-devyatkino/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/gipermarket-prizma-v-novom-devyatkino/2/ to http://www.adamant-stroy.ru/objects/gipermarket-prizma-v-novom-devyatkino/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/gipermarket-prizma-v-novom-devyatkino/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/gipermarket-prizma-v-novom-devyatkino/3/ to http://www.adamant-stroy.ru/objects/gipermarket-prizma-v-novom-devyatkino/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-na-pl-al-nevskogo/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-na-pl-al-nevskogo/2/ to http://www.adamant-stroy.ru/objects/supermarket-prizma-na-pl-al-nevskogo/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/supermarket-prizma-na-pl-al-nevskogo/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/supermarket-prizma-na-pl-al-nevskogo/3/ to http://www.adamant-stroy.ru/objects/supermarket-prizma-na-pl-al-nevskogo/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-atmosfera/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-atmosfera/2/ to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-atmosfera/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-atmosfera/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-atmosfera/3/ to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-atmosfera/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-kontinent-na-bajkonurskoj/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-kontinent-na-bajkonurskoj/2/ to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-kontinent-na-bajkonurskoj/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-kontinent-na-bajkonurskoj/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-kontinent-na-bajkonurskoj/3/ to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-kontinent-na-bajkonurskoj/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-varshavskij-ekspress/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-varshavskij-ekspress/2/ to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-varshavskij-ekspress/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-varshavskij-ekspress/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-varshavskij-ekspress/3/ to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-varshavskij-ekspress/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-kontinent-na-stachek/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-kontinent-na-stachek/2/ to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-kontinent-na-stachek/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-kontinent-na-stachek/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-kontinent-na-stachek/3/ to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-kontinent-na-stachek/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-zanevskij-kaskad-2/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-zanevskij-kaskad-2/2/ to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-zanevskij-kaskad-2/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-zanevskij-kaskad-2/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-zanevskij-kaskad-2/3/ to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-zanevskij-kaskad-2/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-ozerki/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-ozerki/2/ to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-ozerki/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-ozerki/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-ozerki/3/ to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-ozerki/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-nord/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-nord/2/ to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-nord/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-nord/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-nord/3/ to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-nord/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-zanevskij-kaskad/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-zanevskij-kaskad/2/ to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-zanevskij-kaskad/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-zanevskij-kaskad/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-zanevskij-kaskad/3/ to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-zanevskij-kaskad/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/trk-merkurij/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/trk-merkurij/2/ to http://www.adamant-stroy.ru/objects/trk-merkurij/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/trk-merkurij/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/trk-merkurij/3/ to http://www.adamant-stroy.ru/objects/trk-merkurij/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-akademicheskij/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-akademicheskij/2/ to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-akademicheskij/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-akademicheskij/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-akademicheskij/3/ to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-akademicheskij/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-nevskij/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-nevskij/2/ to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-nevskij/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-nevskij/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-nevskij/3/ to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-nevskij/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-baltijskij/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-baltijskij/2/ to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-baltijskij/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/objects/stroitelstvo-trk-baltijskij/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/objects/stroitelstvo-trk-baltijskij/3/ to http://www.adamant-stroy.ru/objects/stroitelstvo-trk-baltijskij/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/events/nachaty-raboty-po-kapitalnomu-remontu-inzhenernyx-setej-dlya-kompanii-transneft-g-kirishi/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/events/nachaty-raboty-po-kapitalnomu-remontu-inzhenernyx-setej-dlya-kompanii-transneft-g-kirishi/2/ to http://www.adamant-stroy.ru/events/nachaty-raboty-po-kapitalnomu-remontu-inzhenernyx-setej-dlya-kompanii-transneft-g-kirishi/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/events/nachaty-raboty-po-kapitalnomu-remontu-inzhenernyx-setej-dlya-kompanii-transneft-g-kirishi/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/events/nachaty-raboty-po-kapitalnomu-remontu-inzhenernyx-setej-dlya-kompanii-transneft-g-kirishi/3/ to http://www.adamant-stroy.ru/events/nachaty-raboty-po-kapitalnomu-remontu-inzhenernyx-setej-dlya-kompanii-transneft-g-kirishi/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/events/zaversheny-raboty-po-falcevomu-pokrytiyu-krovli-v-zhilyx-domax-g-pushkin/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/events/zaversheny-raboty-po-falcevomu-pokrytiyu-krovli-v-zhilyx-domax-g-pushkin/2/ to http://www.adamant-stroy.ru/events/zaversheny-raboty-po-falcevomu-pokrytiyu-krovli-v-zhilyx-domax-g-pushkin/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/events/zaversheny-raboty-po-falcevomu-pokrytiyu-krovli-v-zhilyx-domax-g-pushkin/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/events/zaversheny-raboty-po-falcevomu-pokrytiyu-krovli-v-zhilyx-domax-g-pushkin/3/ to http://www.adamant-stroy.ru/events/zaversheny-raboty-po-falcevomu-pokrytiyu-krovli-v-zhilyx-domax-g-pushkin/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/events/nachaty-raboty-po-rasshireniyu-sborochnogo-cexa-na-zavode-xundaj/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/events/nachaty-raboty-po-rasshireniyu-sborochnogo-cexa-na-zavode-xundaj/2/ to http://www.adamant-stroy.ru/events/nachaty-raboty-po-rasshireniyu-sborochnogo-cexa-na-zavode-xundaj/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/events/zaversheny-raboty-po-betonirovaniyu-fundamentov-zhilyx-domov-v-karelii/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/events/zaversheny-raboty-po-betonirovaniyu-fundamentov-zhilyx-domov-v-karelii/2/ to http://www.adamant-stroy.ru/events/zaversheny-raboty-po-betonirovaniyu-fundamentov-zhilyx-domov-v-karelii/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/events/zavershenie-zalivki-betona-na-komplekse-kinef-v-g-kirishi/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/events/zavershenie-zalivki-betona-na-komplekse-kinef-v-g-kirishi/2/ to http://www.adamant-stroy.ru/events/zavershenie-zalivki-betona-na-komplekse-kinef-v-g-kirishi/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/events/zaversheny-raboty-po-remontu-fasada-i-krovli-sklada-fkgu-kombinat-ladoga/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/events/zaversheny-raboty-po-remontu-fasada-i-krovli-sklada-fkgu-kombinat-ladoga/2/ to http://www.adamant-stroy.ru/events/zaversheny-raboty-po-remontu-fasada-i-krovli-sklada-fkgu-kombinat-ladoga/
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/?post_type=objects%26p=1261/2/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/?post_type=objects%26p=1261/2/ to http://www.adamant-stroy.ru/?post_type=objects%26p%3D1261%2F2%2F
+00:16:38	Warning: 	Moved Permanently for www.adamant-stroy.ru/?post_type=objects%26p=1261/3/
+00:16:38	Warning: 	File has moved from www.adamant-stroy.ru/?post_type=objects%26p=1261/3/ to http://www.adamant-stroy.ru/?post_type=objects%26p%3D1261%2F3%2F
+00:16:39	Warning: 	Moved Permanently for www.adamant-stroy.ru/?post_type=objects%26p=952/2/
+00:16:39	Warning: 	File has moved from www.adamant-stroy.ru/?post_type=objects%26p=952/2/ to http://www.adamant-stroy.ru/?post_type=objects%26p%3D952%2F2%2F
+00:16:42	Warning: 	Moved Permanently for www.adamant-stroy.ru/?post_type=objects%26p=952/3/
+00:16:42	Warning: 	File has moved from www.adamant-stroy.ru/?post_type=objects%26p=952/3/ to http://www.adamant-stroy.ru/?post_type=objects%26p%3D952%2F3%2F
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 hours 3 minutes 12 seconds : 1418 links scanned, 984 files written (191551457 bytes overall) [182560825 bytes received at 24697 bytes/sec], 11708792 bytes transferred using HTTP compression in 213 files, ratio 18%, 3.7 requests per connection
+(7 errors, 850 warnings, 0 messages)
