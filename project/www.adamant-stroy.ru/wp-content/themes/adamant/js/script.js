@@ -1,4 +1,4 @@
-(function($){
+(function($) {
     //    custom placeholder:
     function Placeholder(options) {
         var $input = options.elem,
@@ -7,13 +7,13 @@
         $input.on('blur', onblur);
 
         function onfocus() {
-            if($(this).val() == placeholderValue){
+            if ($(this).val() == placeholderValue) {
                 $(this).val('');
             }
         }
 
-        function onblur(){
-            if(!$(this).val()) {
+        function onblur() {
+            if (!$(this).val()) {
                 $(this).val(placeholderValue);
                 $(this).removeClass('filled');
             } else {
@@ -23,19 +23,17 @@
     }
 
     $('input[type="text"], input[type="search"], ' +
-        'input[type="email"], input[type="tel"], textarea')
-        .each(function(){
-            new Placeholder(
-                {
-                    elem: $(this)
-                }
-            );
+            'input[type="email"], input[type="tel"], textarea')
+        .each(function() {
+            new Placeholder({
+                elem: $(this)
+            });
         });
 
 
     //Galleria play code:
-    if(document.getElementById('galleria')) {
-        $(window).load(function(){
+    if (document.getElementById('galleria')) {
+        $(window).load(function() {
             Galleria.loadTheme('js/galleria/galleria.azur.js');
             Galleria.run('#galleria', {
                 transition: 'slide',
@@ -52,33 +50,33 @@
 
     //bx-slider:
     var thumbnailSlider = $('.object-list-nav.bx-slider').bxSlider({
-        mode:'vertical',
+        mode: 'vertical',
         pager: false,
         minSlides: 15,
         maxSlides: 15,
-//        infiniteLoop:false,
-        nextText:'',
-        prevText:'',
+        //        infiniteLoop:false,
+        nextText: '',
+        prevText: '',
         moveSlides: 3
     });
     $(".bx-slider").swipe({
         //Generic swipe handler for all directions
-        swipe:function(event, direction) {
-            if(direction == 'right') {
+        swipe: function(event, direction) {
+            if (direction == 'right') {
                 mainSlider.goToPrevSlide();
             }
-            if(direction == 'left') {
+            if (direction == 'left') {
                 mainSlider.goToNextSlide();
             }
         },
         //Default is 75px, set to 0 for demo so any distance triggers swipe
-        threshold:10,
+        threshold: 10,
         fallbackToMouseEvents: false
     });
 
     //tap handler for showcase:
     $('.showcase-plate').swipe({
-        tap:function(event, target) {
+        tap: function(event, target) {
             event.preventDefault();
             $('.showcase-plate').removeClass('js-tap');
             $(target).addClass('js-tap');
@@ -88,7 +86,7 @@
 
 
     //tabs:
-    function TabController(options){
+    function TabController(options) {
         var $tabLinks = $(options.tabLinkSelector),
             tabLinkAttr = options.tabLinkAttr || 'href',
             $tabWindows = $(options.tabWindowSelector),
@@ -101,19 +99,19 @@
         var $firstTab = $tabLinks.parent().filter('.active').find('a'),
             $firstWindow = $tabWindows.filter($firstTab.attr(tabLinkAttr));
 
-        if(options.init) {
+        if (options.init) {
             options.init($firstTab, $firstWindow, showTab);
         }
 
         //link handler:
-        $tabLinks.click(function(e){
+        $tabLinks.click(function(e) {
             e.preventDefault();
 
             var $currentTabLink = $(e.target),
                 $currentTabWindow = $tabWindows.filter($currentTabLink.attr(tabLinkAttr));
 
             //do not reload active tab:
-            if($currentTabLink.parent().hasClass('active')){
+            if ($currentTabLink.parent().hasClass('active')) {
                 return;
             }
 
@@ -121,7 +119,7 @@
             closeTab();
 
             //call before function:
-            if(options.beforeShow){
+            if (options.beforeShow) {
                 options.beforeShow($currentTabLink, $currentTabWindow);
             }
 
@@ -130,20 +128,20 @@
         });
 
 
-        function showTab($link, $window){
+        function showTab($link, $window) {
             $link.parent().addClass(activeLinkClass);
-            $window.fadeIn('normal', function(){
-                if(options.afterShow){
+            $window.fadeIn('normal', function() {
+                if (options.afterShow) {
                     options.afterShow($link, $window);
                 }
             });
             $window.addClass(activeWindowClass);
         }
 
-        function closeTab(){
+        function closeTab() {
             $tabLinks.parent().removeClass(activeLinkClass);
 
-            $tabWindows.filter('.'+activeWindowClass)
+            $tabWindows.filter('.' + activeWindowClass)
                 .hide()
                 .removeClass(activeWindowClass);
         }
@@ -159,27 +157,27 @@
         init: function($firstLink, $firstWindow, showTab) {
             //showTab($firstLink, $firstWindow); // эта штука показывает активную табу при загрузке
 
-            if(!$firstLink.length) return;
+            if (!$firstLink.length) return;
 
             var $linkWrap = $firstLink.parent(),
-                arrPosition = $linkWrap.position().top + $linkWrap.height()/2;
+                arrPosition = $linkWrap.position().top + $linkWrap.height() / 2;
             $('.vacancy-wrap .tab-arr').css({
                 top: arrPosition
             });
         },
         beforeShow: function($activeTabLink, $activeTabWindow) {
             var $linkWrap = $activeTabLink.parent(),
-                arrPosition = $linkWrap.position().top + $linkWrap.height()/2;
+                arrPosition = $linkWrap.position().top + $linkWrap.height() / 2;
 
             $('.vacancy-wrap .tab-arr').css({
                 top: arrPosition
             });
 
             $('.vacancy-wrap.tabs-wrap').css('opacity', '0.3');
-            if(!$('.landing_page').length) history.pushState(null, null, $activeTabLink.attr('href'));
+            if (!$('.landing_page').length) history.pushState(null, null, $activeTabLink.attr('href'));
             $.ajax({
                 url: $activeTabLink.attr('href'),
-                success: function(html){
+                success: function(html) {
                     html = $(html).find('.tab-content');
                     $('.tab-content').replaceWith(html);
                     $('.vacancy-wrap.tabs-wrap').css('opacity', '1');
@@ -187,22 +185,22 @@
                         top: arrPosition
                     });
 
-                    $('input[type="text"], input[type="search"], input[type="email"], input[type="tel"], textarea').each(function(){
-                        new Placeholder({elem: $(this)});
+                    $('input[type="text"], input[type="search"], input[type="email"], input[type="tel"], textarea').each(function() {
+                        new Placeholder({ elem: $(this) });
                     });
 
-                    $('input[type="file"]').change(function(e){
+                    $('input[type="file"]').change(function(e) {
                         handleFileSelect(e, $(this));
                     });
 
-                    $(html).find('form').each(function(){
+                    $(html).find('form').each(function() {
                         var form = new FormController({
                             $form: $(this)
                         });
                     });
 
-                    $('iframe#superframe').load(function(){
-                        $('iframe#superframe').load(function(){
+                    $('iframe#superframe').load(function() {
+                        $('iframe#superframe').load(function() {
                             $('.vacancy_submit').css('opacity', '1');
                             $('.vacancy_submit').val('Отправлено!');
                         });
@@ -211,7 +209,7 @@
             });
 
         },
-        afterShow: function(l,$activeTabWindow){
+        afterShow: function(l, $activeTabWindow) {
             var tabWindowHeight = $activeTabWindow.parent().outerHeight();
             $('.vacancy-section .common-border-wrap').css({
                 minHeight: tabWindowHeight + 50
@@ -223,7 +221,7 @@
     /* $('.vacancy_mail_form').submit(function(){
      // $('.vacancy_submit').css('opacity', '0.3');
      }); */
-    $('iframe#superframe').load(function(){
+    $('iframe#superframe').load(function() {
         $('.vacancy_submit').css('opacity', '1');
         $('.vacancy_submit').val('Отправлено!');
         yaCounter156663.reachGoal('order2');
@@ -238,38 +236,38 @@
         tabWindowSelector: '.tab-content123',
         openTabNumber: 0,
         init: function($firstLink, $firstWindow) {
-            if(!$firstLink.length) return;
+            if (!$firstLink.length) return;
 
             var $linkWrap = $firstLink.parent(),
-                arrPosition = $linkWrap.position().top + $linkWrap.height()/2;
+                arrPosition = $linkWrap.position().top + $linkWrap.height() / 2;
             $('.job-section .tab-arr').css({
                 top: arrPosition
             });
         },
         beforeShow: function($activeTabLink) {
             var $linkWrap = $activeTabLink.parent(),
-                arrPosition = $linkWrap.position().top + $linkWrap.height()/2;
+                arrPosition = $linkWrap.position().top + $linkWrap.height() / 2;
 
             $('.job-section').css('opacity', '0.3');
             $('.job-section .tab-arr').css({
                 top: arrPosition
             });
-            if(!$('.landing_page').length) history.pushState(null, null, $activeTabLink.attr('href'));
+            if (!$('.landing_page').length) history.pushState(null, null, $activeTabLink.attr('href'));
             $.ajax({
                 url: $activeTabLink.attr('href'),
-                success: function(html){
+                success: function(html) {
                     html = $(html).find('.common-white-wrap');
                     $('.common-white-wrap').replaceWith(html);
                     $('.job-section').css('opacity', '1');
                     $('.job-section .tab-arr').css({
                         top: arrPosition
                     });
-					fancybox_func();
+                    fancybox_func();
 
                     $("body.landing_page .job-page-wrap .object-list a").fancybox({
-                        'padding'	:	'0',
-                        'type'	   :	'ajax',
-                        'ajax' : {
+                        'padding': '0',
+                        'type': 'ajax',
+                        'ajax': {
                             complete: function(jqXHR, textStatus) {
                                 $('.fotorama').fotorama();
                             }
@@ -291,10 +289,11 @@
             map;
 
         var styles = [{
-            stylers: [
-                { saturation: -100 },
-                { lightness: 15 }
-            ]},
+                stylers: [
+                    { saturation: -100 },
+                    { lightness: 15 }
+                ]
+            },
             {
                 featureType: "administrative.locality",
                 elementType: "all",
@@ -317,20 +316,20 @@
                     { lightness: 5 }
                 ]
 
-            }];
+            }
+        ];
 
         function initialize() {
 
-            var styledMap = new google.maps.StyledMapType(styles,
-                {name: "Styled Map"});
+            var styledMap = new google.maps.StyledMapType(styles, { name: "Styled Map" });
 
             var mapOptions = {
                 zoom: zoom,
                 center: new google.maps.LatLng(mLat, mLon),
                 mapTypeControl: false,
-                streetViewControl:false,
-                panControl:false,
-                scrollwheel:false
+                streetViewControl: false,
+                panControl: false,
+                scrollwheel: false
             };
             map = new google.maps.Map(mapWrap,
                 mapOptions);
@@ -339,14 +338,14 @@
             map.setMapTypeId('map_style');
         }
 
-        initialize();
+        // initialize();
 
-		var markers = [];
-        markerList.forEach(function(work){
+        var markers = [];
+        markerList.forEach(function(work) {
             var workCoords = new google.maps.LatLng(work.coords.lat, work.coords.lon);
             var markerImg;
 
-            if(work.underConstruction) {
+            if (work.underConstruction) {
                 markerImg = 'http://www.adamant-stroy.ru/wp-content/themes/adamant/img/marker-construction.png';
             } else {
                 markerImg = 'http://www.adamant-stroy.ru/wp-content/themes/adamant/img/marker.png';
@@ -358,54 +357,54 @@
                 icon: markerImg,
                 title: work.title
             });
-			markers.push(workMarker);
+            markers.push(workMarker);
 
             var popupContent =
                 '<div class="popup">' +
-                    '<div class="popup-close" onclick = "this.parentNode.style.display = \'none\'">&times;</div>' +
-                    '<div class="img-wrap">'+
-                    '<a href="' + work.link +'">'+
-                    '<img src="'+work.image+'"/>' +
-                    '</a>' +
-                    '</div>' +
-                    '<div class="text-wrap">' +
-                    '<a class="name" href="' + work.link +'">' + work.title + '</a>' +
-                    '</div>'+
-                    '</div>';
+                '<div class="popup-close" onclick = "this.parentNode.style.display = \'none\'">&times;</div>' +
+                '<div class="img-wrap">' +
+                '<a href="' + work.link + '">' +
+                '<img src="' + work.image + '"/>' +
+                '</a>' +
+                '</div>' +
+                '<div class="text-wrap">' +
+                '<a class="name" href="' + work.link + '">' + work.title + '</a>' +
+                '</div>' +
+                '</div>';
 
             var popup = new InfoBox({
-                boxClass:	'popupWrap',
-                alignBottom:true,
-                pixelOffset:new google.maps.Size(-110, -40),
-                closeBoxURL:'',
-                latlng:		workCoords,
-                map:		map,
-                content:	popupContent
+                boxClass: 'popupWrap',
+                alignBottom: true,
+                pixelOffset: new google.maps.Size(-110, -40),
+                closeBoxURL: '',
+                latlng: workCoords,
+                map: map,
+                content: popupContent
             });
 
             google.maps.event.addListener(workMarker, 'click', function() {
                 $('.popup').hide();
-                popup.open(map,workMarker);
+                popup.open(map, workMarker);
             });
         });
-		
-		var markerCluster = new MarkerClusterer(map, markers, {
-			gridSize: 35,
-			styles: [{
-				url: markerImg,
-				maxZoom: 16,
-				height: 33,
-				width: 24,
-				anchor: [4,0],
-				textColor: '#fff',
-				textSize: 15,
-			}]
-		});
-		
-		google.maps.event.addListener(markerCluster, 'clusterclick', function(cluster) {
-			
-		});
-	
+
+        var markerCluster = new MarkerClusterer(map, markers, {
+            gridSize: 35,
+            styles: [{
+                url: markerImg,
+                maxZoom: 16,
+                height: 33,
+                width: 24,
+                anchor: [4, 0],
+                textColor: '#fff',
+                textSize: 15,
+            }]
+        });
+
+        google.maps.event.addListener(markerCluster, 'clusterclick', function(cluster) {
+
+        });
+
     }
     window.ObjectMap = ObjectMap;
 
@@ -422,10 +421,11 @@
             map;
 
         var styles = [{
-            stylers: [
-                { saturation: -100 },
-                { lightness: 15 }
-            ]},
+                stylers: [
+                    { saturation: -100 },
+                    { lightness: 15 }
+                ]
+            },
             {
                 featureType: "administrative.locality",
                 elementType: "all",
@@ -448,14 +448,14 @@
                     { lightness: 5 }
                 ]
 
-            }];
+            }
+        ];
 
         function initialize() {
 
             // Create a new StyledMapType object, passing it the array of styles,
             // as well as the name to be displayed on the map type control.
-            var styledMap = new google.maps.StyledMapType(styles,
-                {name: "Styled Map"});
+            var styledMap = new google.maps.StyledMapType(styles, { name: "Styled Map" });
 
             // Create a map object, and include the MapTypeId to add
             // to the map type control.
@@ -463,9 +463,9 @@
                 zoom: zoom,
                 center: new google.maps.LatLng(mLat, mLon),
                 mapTypeControl: false,
-                streetViewControl:false,
-                panControl:false,
-                scrollwheel:false
+                streetViewControl: false,
+                panControl: false,
+                scrollwheel: false
             };
             map = new google.maps.Map(mapWrap, mapOptions);
 
@@ -483,10 +483,10 @@
             title: marker.title
         });
 
-        if(routePicture) {
+        if (routePicture) {
             var layerplace = new google.maps.LatLngBounds(
-                new google.maps.LatLng(routeCoords.bottomLeftCorner.lat,routeCoords.bottomLeftCorner.lng),
-                new google.maps.LatLng(routeCoords.topRightCorner.lat,routeCoords.topRightCorner.lng)
+                new google.maps.LatLng(routeCoords.bottomLeftCorner.lat, routeCoords.bottomLeftCorner.lng),
+                new google.maps.LatLng(routeCoords.topRightCorner.lat, routeCoords.topRightCorner.lng)
             );
             var layer = new google.maps.GroundOverlay(
                 routePicture,
@@ -501,34 +501,34 @@
 
 
     //fancy:
-	fancybox_func();
-	function fancybox_func(){
-		if($('.fancybox-elem').fancybox){
-			$('.fancybox-elem').fancybox({
-				padding:0
-			});
-		}
+    fancybox_func();
 
-		$(".common-white-wrap a, .job-content a, .alignnone a, .alignleft a, .alignright a, .aligncenter a, .vacancy-wrap a, .object-page-wrap .main-content-wrap a").bind('click', function(event){
-				var exttrue;
-				fileName = $(this).attr('href');
-				ext = fileName.split('.').pop();
-				if (ext=='jpg' || ext=='jpeg' || ext=='png' || ext=='gif') {exttrue = true;}
-				if(exttrue==true && $(this).children('img').length){
-					event.preventDefault();
-					var href1 = $(this).attr('href');
-					$.fancybox.open([
-						{href : href1, title : '', padding : '0'}
-					]);
-				}
-			}
-		);
-	}
+    function fancybox_func() {
+        if ($('.fancybox-elem').fancybox) {
+            $('.fancybox-elem').fancybox({
+                padding: 0
+            });
+        }
+
+        $(".common-white-wrap a, .job-content a, .alignnone a, .alignleft a, .alignright a, .aligncenter a, .vacancy-wrap a, .object-page-wrap .main-content-wrap a").bind('click', function(event) {
+            var exttrue;
+            fileName = $(this).attr('href');
+            ext = fileName.split('.').pop();
+            if (ext == 'jpg' || ext == 'jpeg' || ext == 'png' || ext == 'gif') { exttrue = true; }
+            if (exttrue == true && $(this).children('img').length) {
+                event.preventDefault();
+                var href1 = $(this).attr('href');
+                $.fancybox.open([
+                    { href: href1, title: '', padding: '0' }
+                ]);
+            }
+        });
+    }
 
 
     //masonry
     var masonryContainer = $('.certificate-list');
-    masonryContainer.imagesLoaded(function(){
+    masonryContainer.imagesLoaded(function() {
         masonryContainer.masonry({
             itemSelector: '.certificate-list >li',
             gutter: 0
@@ -540,11 +540,11 @@
         var files = evt.target.files; // FileList object
         var caption = $this.parent().find('span');
 
-        console.log(caption,files[0].name);
+        console.log(caption, files[0].name);
         caption.html(files[0].name);
     }
 
-    $('input[type="file"]').change(function(e){
+    $('input[type="file"]').change(function(e) {
         handleFileSelect(e, $(this));
     });
 
@@ -555,19 +555,19 @@
 
         var $form = options.$form,
             $textInputs = $form.find('input')
-                .not('[type="radio"],[type="checked"],[type="submit"],[type="button"],[type="file"]');
+            .not('[type="radio"],[type="checked"],[type="submit"],[type="button"],[type="file"]');
 
         //check all fields before submit:
-        $form.submit(function(e){
+        $form.submit(function(e) {
             var formIsCorrect = true;
 
-            $textInputs.each(function(){
-                if( !validateTextInput($(this)) ){
+            $textInputs.each(function() {
+                if (!validateTextInput($(this))) {
                     formIsCorrect = false;
                 }
             });
 
-            if(!formIsCorrect) {
+            if (!formIsCorrect) {
                 e.preventDefault();
             } else {
                 $('.vacancy_submit').css('opacity', '0.3');
@@ -575,7 +575,7 @@
         });
 
         //check field after blur:
-        $textInputs.blur(function(){
+        $textInputs.blur(function() {
             validateTextInput($(this));
         });
 
@@ -583,17 +583,17 @@
             var correctField = true;
             var value = $textInput.val();
 
-            if(!value || value == $textInput.attr('data-placeholder')) {
+            if (!value || value == $textInput.attr('data-placeholder')) {
                 correctField = false;
             }
 
-            if($textInput.attr('type') == 'email') {
-                if(!validateEmail(value)) {
+            if ($textInput.attr('type') == 'email') {
+                if (!validateEmail(value)) {
                     correctField = false;
                 }
             }
 
-            if(!correctField) {
+            if (!correctField) {
                 showError($textInput);
                 return false;
             } else {
@@ -604,7 +604,7 @@
             function validateEmail(x) {
                 var atpos = x.indexOf("@");
                 var dotpos = x.lastIndexOf(".");
-                if (atpos< 1 || dotpos<atpos+2 || dotpos+2>=x.length) {
+                if (atpos < 1 || dotpos < atpos + 2 || dotpos + 2 >= x.length) {
                     return false;
                 }
                 return true;
@@ -620,7 +620,7 @@
         }
     }
 
-    $('.vacancy-bid-form form').each(function(){
+    $('.vacancy-bid-form form').each(function() {
         var form = new FormController({
             $form: $(this)
         });
@@ -632,23 +632,3 @@
 
 
 })(jQuery);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
